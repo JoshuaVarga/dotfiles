@@ -16,6 +16,6 @@ config.launch_menu = {
 config.color_scheme = "Tokyo Night Storm"
 config.font = wezterm.font("FiraCode Nerd Font Mono")
 config.enable_tab_bar = false
-config.window_background_opacity = 0.9
+config.window_background_opacity = 0.99
 
 return config
