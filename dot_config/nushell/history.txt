@@ -1,0 +1,5073 @@
+ls
+choco list
+winget firacode
+winget search firacode
+choco list firacode
+choco search firacode
+starship prompt
+winget install starship
+cd 
+cd %appdata%
+choco list
+choco search firacode
+winget install nerd-fonts-firacode
+cd appdata
+cd roaming
+cd nushell
+ls
+code config.nu
+choco list
+choco install nerd-fonts-firacode
+cd ../../../
+ls
+code .wezterm.lua
+$nu.config-path
+ls
+cd Appdata
+cd roaming
+cd nushell
+code config.nu
+$nu.config-path
+nushell --version
+nu --version
+cd ~
+ls
+mkdir git
+ls
+cd git
+winget install 1password-cli
+cd ~
+cd .ssh
+ls
+ssh-keygen -t ed25519
+ls
+cd .ssh
+ls
+winget git
+winget install git
+winget install Git.Git
+cd ~/git
+git clone git@gitlab.prolucid.ca:vitaa/rawmap-cloud.git
+cd ~/.ssh
+cd ~
+ls
+code config.nu
+ls
+code config.nu
+ls
+cd appdata/roaming
+ls
+cd nushell
+code env.nu
+ls
+winget install zoom
+winget install Zoom.Zoom
+ls
+code config.nu
+cd ../../../
+ls
+code .wezterm.lua
+ls
+exit
+ls
+ls -la
+starship preset catppuccin-powerline -o ~/.config/starship.toml
+cd .config
+cd ~
+mkdir .config
+cd .config
+starship preset catppuccin-powerline -o ~/.config/starship.toml
+ls
+code starship.toml
+exit
+ls
+ls -la
+wsl
+winget search chezmoi
+winget install chezmoi
+restart
+chezmoi add "$HOME\.wezterm.lua"
+chezmoi init
+chezmoi add "$HOME\.wezterm.lua"
+chezmoi add "$HOME/.wezterm.lua"
+echo $env.HOME
+chezmoi add "$env.USERPROFILE/.wezterm.lua"
+chezmoi add ~/.wezterm.lua
+chezmoi add ~/AppData/Roaming/nushell/config.nu
+chezmoi add ~/AppData/Roaming/nushell/env.nu
+chezmoit add ~/.config/starship.toml
+chezmoi add ~/.config/starship.toml
+chezmoi status
+chezmoi diff
+chezmoi apply
+chezmoit git status
+chezmoi git status
+chezmoi git add .
+chezmoit git commit -m "add wezterm, nushell, starship configs"
+chezmoi git commit -m "add wezterm, nushell, starship configs"
+chezmoi git -- commit -m "add wezterm, nushell, starship configs"
+git config --global --edit
+chezmoi cd
+cd chezmoi
+nu cd
+winget list nushell
+choco list
+cd ~
+ls
+cd .local
+ls
+cd share/chezmoi/
+ls
+git config user.name "JoshuaVarga"
+git config user.email "joshuasvarga@gmail.com"
+git remote add origin git@github.com:JoshuaVarga/dotfiles.git
+bit branch -M main
+git branch -M main
+git push -u origin main
+git push -f -u origin main
+ls
+code .wezterm.lua
+code dot_wezterm.lua
+cd ~/git/
+chezmoi cd
+git clone git@gitlab.prolucid.ca:joshua.varga/rawmap-cloud.git
+exit
+git clone git@gitlab.prolucid.ca:joshua.varga/rawmap-cloud.git
+cd ~/git/
+git clone git@gitlab.prolucid.ca:joshua.varga/rawmap-cloud.git
+cd rawmap-cloud\
+nvm -v
+winget search nvm
+winget install CoreyButler.NVMforWindows
+nvm -v
+nvm --help
+winget list dotnet8
+winget list dotnet
+choco search dotnet
+cd ~/git/
+ls
+cd rawmap-cloud
+ls
+cat globals.json
+more global.json
+choco install dotnet-8-sdk-403
+exit
+choco install dotnet-8-sdk-403
+choco list dotnet
+choco search dotnet
+choco install dotnet-8.0-sdk-403
+nvm --help
+nvm list
+nvm list 18
+nvm list available
+nvm install 18
+nvm use 18.20.8
+cd ~/git/rawmap-cloud/
+more global.json
+winget install Microsoft.Dotnet.SDK.8.0.403
+winget search .NET
+docker login gitlab.prolucid.ca:9090
+clear
+chezmoi -?
+chezmoi --help
+chezmoi update
+winget install  glazewm
+winget list terminal
+winget uninstall Microsoft.WindowsTerminal
+winget intstall powertoys
+winget install powertoys
+winget install microsoft.powertoys
+winget install tranlucenttb
+winget install transparenttb
+winget search transperenttb
+winget search transparenttb
+winget update --all
+winget search translucenttb
+winget install CharlesMilette.Translucenttb
+dotnet --list
+dotnet --list-sdk
+dotnet --list-sdks
+cd !/git
+cd ~/git/rawmap-cloud/
+ls
+git update-index --skip-worktree global.json
+git ls-files -v | grep ' global.json'
+code global.json
+clear
+build
+dotnet tool restore
+build
+git fetch --all
+git branch -v
+git branch -l
+git remote -v
+git fetch --all
+git remote set upstream git@gitlab.prolucid.ca:vitaa/rawmap-cloud.git
+git remote add upstream git@gitlab.prolucid.ca:vitaa/rawmap-cloud.git
+git remote -v
+git fetch --all
+git checkout VRM-4357-side-panel-stent-plan
+build
+cd ~/git/rawmap-cloud/
+ls
+build
+dotnet paket restore
+dotnet tool restore
+exit
+cd ~/git/rawmap-cloud/
+build
+clear
+winget search egnyte
+winget intstall egnyte
+winget install egnyte
+git diff
+code .
+ls
+code .wezterm.lua
+clear
+winget search gallery
+winget search photos
+winget install 9WZDNCRFJBH4
+chezmoi re-add
+clear
+winget search neovim
+winget install Neovim.Neovim
+winget search fzf
+winget install junegunn.fzf
+winget search ripgrep
+winget install genivia.ugrep
+winget uninstall genivia.ugrep
+winget install burntsushi.ripgrep.msvc
+winget install fzf
+winget install sharkdp.fd
+tar
+curl
+nvm list
+nvim install latest
+nvm install latest
+nvm list
+npm install tre-sitter-cli
+npm install tree-sitter-cli
+npm uninstall tree-sitter-cli
+npm install -g tree-sitter-cli
+winget search visualstudio
+winget install Microsoft.VisualStudio.2022.BuildTools
+clear
+winget search neovim
+# required
+Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
+# optional but recommended
+powershell Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+nvim
+winget list nvim
+nvim
+chezmoi tracked
+chezmoi managed
+chezmoi remove AppData
+chezmoi forget AppData
+chezmoi managed
+chezmoi add ~/.config/nushell/config.nu
+chezmoi add ~/.config/nushell/env.nu
+chezmoi managed
+cd ~/.local/share/chezmoi/
+git add .
+chezmoi re-ad
+chezmoi re-add
+git add .
+git commit -m "move nushell to .config"
+git push -f
+cd ~
+ls
+cd .config
+ls
+cd nvim
+ls
+winget search python
+winget install python.python.3.0
+python -v
+winget list python
+winget update --all
+winget -h
+winget upgrade --all
+winget upgrade
+python3
+winget uninstall python.python.3.0
+python -v
+python3 --version
+python --version
+winget list pytohn
+winget list python
+winget upgrade
+clear
+code --version
+where nu
+nu where
+where < nu
+where < nu.exe
+exit
+nu.exe
+where nu.exe
+where /f nu.exe
+where /f "nu.exe"
+where /r c:\ nu.exe
+winget list nushell
+ls
+chezmoi managed
+chezmoi add ~/.config/nvim/
+chezmoi managed
+cd ~/.vscode
+ls
+cd %appdata%
+cd ~/git
+ls
+cd rawmap-cloud\
+build webdocker
+docker compose up -d
+docker login gitlab.prolucid.ca:9090
+clear
+chezmoi add ~/AppData/Roaming/Code/User/settings.json
+chezmoi managed
+chezmoi add -- .
+chezmoi managed
+clear
+ls
+vim README.md
+winget list vim
+winget install vim
+winget install vim.vim
+cd ~
+ls
+cd .config
+ls
+cd nvim
+ls
+code init.lua
+vim README.md
+vim
+ls `C:\Program Files\Vim\`
+vim
+code .
+ls
+cd .config/nvim/
+ls
+nvim init.lua
+vim init.lua
+nvim init.lua
+cd ~
+nvim .vimrc
+ls
+cd ~/git/rawmap-cloud/
+nvim .
+code .
+cd ~/git/rawmap-cloud/
+nvim
+nvim .
+docker login gitlab.prolucid.ca:9090
+docker compose up -d
+wsl -d docker-desktop sysctl -w vm.max_map_count=262144
+explorer
+clear
+explorer .
+winget search spotify
+winget install spotify.spotify
+explorer .
+ls ~/Downloads/
+mv ~/Downloads/UI_Data_Files_centerline_segmentation_masks.zip ~/git/rawmap-cloud/src/RAWMap.Client/public/data
+ls ~/Downloads/
+rm -rf ~/Downloads/python-3.13.7-amd64.exe
+nvim .
+cd ~/git/rawmap-cloud/
+nvim
+nvim .
+nvim
+pip install hererocks
+nvim
+pip uninstall hererocks
+winget search omnisharp
+cd .config/nvim/
+ls
+cd lua
+code .
+build run
+cd ~
+nvim .vimrc
+cd .config/nvim/
+ls
+nvim init.lua
+code .
+cd ~/git/rawmap-cloud/
+code .
+exit
+build run
+cd ~/git/rawmap-cloud/
+docker compose up -d
+cd ~/git/rawmap-cloud/
+nvim .
+devenv .
+build run
+clear
+cd ~/git/rawmap-cloud/
+build run
+cd ~/git/rawmap-cloud/
+git add .
+git commit -m "VRM-4357 re-add stent plan to standard view only"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4357 re-add stent plan to standard view only"
+cd ~
+nvim .gitconfig
+cd ~/git/rawmap-cloud/
+git push -f
+cd ~/git
+git clone git@gitlab.prolucid.ca:joshua.varga/reactive-framework.git
+ls
+cd reactive-framework
+git remote add upstream git@gitlab.prolucid.ca:reference-architectures/reactive-framework.git
+git fetch --all
+git branch -l
+git checkout CDTAPP-5-peripheral-communication
+dotnet tool restore
+ls
+nvim .
+nvim.exe .
+nvim .
+cd ~/git/reactive-framework/
+nvim .
+cd ~/git/rawmap-cloud/
+git fetch --all
+git checkout main
+git checkout master
+git checkout VRM-4221-delete-measurement
+git checkout -b VRM-4221-delete-measurement
+cd ~/git/rawmap-cloud/
+build run
+cd ~/git/rawmap-cloud/
+git add .
+git commit -m "VRM-4221 add delete measurement tool"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationTemp/VisualizationTempView.fs
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationTemp/VisualizationTempState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4221 add delete measurement tool"
+git config --global user.name "Joshua Varga"
+git config --global user.email joshua.varga@prolucid.ca
+git commit --amend --reset-author
+git push -f
+git push --set-upstream origin VRM-4221-delete-measurement
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4357-side-panel-stent-plan
+git rebase master
+git checkout VRM-4221-delete-measurement
+git fetch upstream
+git checkout master
+git reset --hard upstream/master
+git push -f
+git tag -l
+git fetch --tags upstream
+git push -f --tags origin master
+git checkout VRM-4221-delete-measurement
+git rebase master
+git push -f
+git checkout VRM-4357-side-panel-stent-plan
+git rebase master
+git push -f
+git checkout VRM-4221-delete-measurement
+git checkout VRM-4357-side-panel-stent-plan
+git checkout master
+git checkout -b VRM-4351-label-select-indication
+build run
+cd ~/git/rawmap-cloud/
+git stash
+git checkout VRM-4221-delete-measurement
+git add .
+git commit -m "VRM-4221 toggle off delete tool after deletion and bug fix"
+git push -f
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4221-delete-measurement
+git rebase master
+git rebase --continue
+git push -f
+git checkout VRM-4357-side-panel-stent-plan
+git rebase master
+git checkout -b demo
+git rebase VRM-4221-delete-measurement
+gi rebase --continue
+git rebase --continue
+cd ~/git/rawmap-cloud/
+git add .
+git commit -m "VRM-4357 fix height and add border"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4357 fix height and add border"
+git log
+git reflog
+git checkout VRM-4357-side-panel-stent-plan
+git cherry-pick 6d83d34e
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit --amend
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit --amend
+git push -f
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs\
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit --amend
+git push -f
+git fetch --all
+git checkout master
+git push -f
+git checkout -b VRM-4286-reference-crosshair
+clear
+git checkout VRM-4357-side-panel-stent-plan
+build run
+git checkout b497bf4a3c62fef5ccf5fa68e29d634dd9721630
+git restore .
+b497bf4a3c62fef5ccf5fa68e29d634dd9721630
+git checkout b497bf4a3c62fef5ccf5fa68e29d634dd9721630
+git checkout VRM-4357-side-panel-stent-plan
+git add .
+git commit -m "VRM-4357 bug fixes"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4357 bug fixes"
+git push -f
+git checkout VRM-4286-reference-crosshair
+winget install teamviewer
+cd ../
+ld
+ls
+mkdir NIMBLE
+cd NIMBLE\
+git clone git@gitlab.prolucid.ca:joshua.varga/waeve.git
+winget search matlab_runtime
+winget search matla
+git search mathworks.matlabruntime
+winget search mathworks.matlabruntime
+winget install mathworks.matlabruntime
+cd waeve\
+build run
+clear
+build solution
+exit
+cd ~/git/Nimble/waeve
+build solution
+git submodule update --init --recursive
+build solution
+winget uninstall matlabruntime
+clear
+winget list matlabruntime
+winget uninstall MAthWorks.MATLABRuntime 25.2
+winget uninstall MAthWorks.MATLABRuntime --version 25.2
+winget list matlabruntime
+cd ~/git/Nimble/waeve
+git checkout 0.1.2
+git remote add upstream git@gitlab.prolucid.ca:nimble/waeve.git
+git fetch --all
+git checkout 0.1.2
+git restore .
+git checkout 0.2.1
+git checkout 0.1.2
+git checkout NWS-84-pre-measurement
+git checkout upstream NWS-84-pre-measurement
+git remote branch -l
+git branch -l
+git branch -l remote
+git branch -h
+git branch -l upstream
+git branch -r
+git checkout upstream/NWS-84-pre-measurement
+cd ~/git/Nimble/waeve
+git branch -l
+git add .
+git commit -m "NWS-84 add golden test data and tests"
+git push -f
+git push upstream/NWS-84-pre-measurement
+git push HEAD:upstream/NWS-84-pre-measurement
+git push -f HEAD:NWS-84-pre-measurement
+git push -f HEAD:NWS-84-pre-measurement HEAD:NWS-84-pre-measurement 
+git push -f origin/NWS-84-pre-measurement
+git push -f origin HEAD:NWS-84-pre-measurement
+git checkout NWS-84-pre-measurement
+git fetch --all
+git branch -l
+git remote -v
+git checkout origin/NWS-84-pre-measurement
+git log
+git fetch --all
+cd ~/git/Nimble/waeve
+git fetch --all
+git log
+git checkout -b temp-pre-measure
+git checkout NWS-84-pre-measurement
+git checkout origin/NWS-84-pre-measurement
+git checkout --track origin/NWS-84-pre-measurement
+git reflog
+git cherrypick 139cf1
+git cherry-pick 139cf1
+git cherry-pick 139c2f1
+git push -f
+git checkout 0.1.2
+git checkout -b 0.1.2-but-with-tests
+git cherry-pick 139c2f1
+clear
+git cherry-pick 139c2f1
+git cherry-pick --continue
+git add .
+git commit -m "backport tests from pre-measure"
+git push -f
+git push --set-upstream origin 0.1.2-but-with-tests
+git add .
+git commit -m "fix golden halt data and fix halt test"
+git push -f
+git reflog
+git checkout NWS-84-pre-measurement
+git cherry-pick a87d299
+git add .
+git commit -m "fix golden halt data and fix halt test"
+git push -f
+git commit --amend
+git push -f
+git fetch --all
+clear
+git add .
+git commit -m "NWS-84 bold labels"
+git push -f
+git checkout main
+winget search innosetup
+winget install JRSoftware.InnoSetup
+cd ~/git/
+cd ViTAA
+cd rawmap-cloud\
+ls
+git checkout VRM-4357-side-panel-stent-plan
+cd ~/git/ViTAA/rawmap-cloud/
+git add .
+git commit -m "VRM-4357 address MR comments"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4357 address MR comments"
+git push -f
+giit checkout VRM-4221-delete-measurement
+git checkout VRM-4221-delete-measurement
+build run
+git add .
+git commit -m "VRM-4221 remove adding/removing length measurement bools and replace with a lrngth measurement state DU"
+git add .
+git commit -m "VRM-4221 remove parentContext from dependency list and create a ref for it instead"
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationBindings.fs
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationTemp/VisualizationTempState.fs
+git add .
+git commit -m "VRM-4221 remove parentContext from dependency list and create a ref for it instead"
+git push -f
+clear
+git checkout VRM-4357-side-panel-stent-plan
+git add .
+git commit -m "VRM-4357 fix popout not working when a viewport is maximized"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4357 fix popout not working when a viewport is maximized"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4357-side-panel-stent-plan
+git rebase master
+git rebase --continue
+git add .
+git commit -m "VRM-4357 rebase fixes"
+git push -f
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4221-delete-measurement
+git rebase amster
+git rebase master
+git rebase --continue
+build run
+git add .
+git commit -m "VRM-4221 rebase fixes"
+git push -f
+git checkout master
+git checkout VRM-4221-delete-measurement
+git checkout VRM-4357-side-panel-stent-plan
+git checkout VRM-4221-delete-measurement
+git checkout VRM-4357-side-panel-stent-plan
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4221-delete-measurement
+git checkout master
+git checkout VRM-4221-delete-measurement
+lear
+clear
+git stash
+git restore .
+git stash pop
+git add .
+git commit -m "VRM-4221 remove widget from ALL places it's being tracked when deleted"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git push -f
+git branch -l
+git checkout VRM-4351-label-select-indication
+git checkout VRM-4221-delete-measurement
+git add .
+git commit -m "VRM-4221 remove widget from ALL places it's being tracked when deleted"
+git push -f
+git checkout VRM-4351-label-select-indication
+git checkout VRM-4221-delete-measurement
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4351-label-select-indication
+git rebase master
+git stash
+git checkout VRM-4221-delete-measurement
+gita add .
+gi add .
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4351-label-select-indication
+git stash pop
+git stash
+git checkout VRM-4357-side-panel-stent-plan
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4357-side-panel-stent-plan
+git rebase master
+git rebase --continue
+git push -f
+git checkout VRM-4351-label-select-indication
+git stash pop
+git add .
+git commit -m "VRM-4351 change label, line, and rinfg to red"
+git push -f
+git push --set-upstream origin VRM-4351-label-select-indication
+clear
+git stash
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4351-label-select-indication
+git rebase master
+git add .
+git commit -m "VRM-4351 add ring highlights for length measurements"
+git checkout master
+git checkout VRM-4351-label-select-indication
+build run
+cd ~/git
+ls
+mkdir Webbler
+git clone git@gitlab.prolucid.ca:reference-architectures/webbler-identitymanager.git
+winget search putty
+winget install putty.putty
+cd ../
+cd .ssh
+ls
+vim optiscan-aus-stg-ec2
+nvim optiscan-aus-stg-ec2
+cd ~/git/Webbler/
+ls
+cd IdentityManager\
+nvim temp.ps1
+temp.ps1
+cd ~/git/Webbler/
+ls
+cd IdentityManager\
+ls
+temp.ps1
+winget searcg pgadmin
+winget search pgadmin
+winget install pgadmin
+nvim temp.ps1
+cd ~/.ssh
+nvim optiscan-aus-stg-ec2
+cd ~/.ssh
+nvim optiscan-aus-stg-ec2
+explorer .
+cd ~/git/Webbler/IdentityManager/
+ls
+temp.ps1
+temp.ps1
+nvim temp.ps1
+temp.ps1
+nvim temp.ps1
+docker run -ti -e DB_HOST=optiscan-cloud-stg-aus-database-0.cfbosunmxtok.ap-southeast-2.rds.amazonaws.com -e DB_NAME=optiscan_cloud -e DB_USER=optiscan -e DB_PWD=vmc0mxu9qcv!xzw_QKE -e SSL_MODE="Require" --network="host" gitlab.prolucid.ca:9090/reference-architectures/webbler-identitymanager/webbler-idm:0.4
+nvim temp.ps1
+wsl -d docker-desktop sysctl -w vm.max_map_count=262144
+temp.ps1
+netstat -ano | findstr :5501
+clear
+netstat -ano | findstr :5501
+temp.ps1
+nvmi temp.ps1
+nvim temp.ps1
+cd ~/git
+ls
+cd vitaa
+ls
+cd raw
+cd rawmap-cloud\
+git checkout master
+build run
+clear
+cd ~/git/ViTAA/rawmap-cloud/
+git add .
+git commit --amend
+git push -f
+git checkout master
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git checkout VRM-4351-label-select-indication
+ls
+npx @biomejs/biome format --write C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\visualization\stentplanning\StentPlanning.js
+git add .
+git commit -m "VRM-4351 add ESlint rule to always enforce braces and fixed offenders in StentPlanning.js"
+build run
+git stash
+git stash pop
+git add .
+git commit -m "VRM-4351 fix overwrite of already coloured rings and fix error causes when trying to acces a ring that doesn't exist"
+git push -f
+cleart
+clear
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git stash
+git checkout VRM-4351-label-select-indication
+git checkout VRM-4286-reference-crosshair
+git stash pop
+git stash
+git checkout VRM-4351-label-select-indication
+build run
+git checkout VRM-4286-reference-crosshair
+git stash pop
+npm list
+cd ~/git
+git clone https://github.com/Kitware/VolView.git
+cd volview
+ls
+nvim .
+code .
+exit
+git stash
+git checkout VRM-4351-label-select-indication
+clear
+git add .
+git commit -m "VRM-4351 properly set cusp branch type"
+git push -f
+winget search snipping tool
+winget search snippingtool
+clear
+cd ~/git/ViTAA/rawmap-cloud/
+build run
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4286-reference-crosshair
+git stash pop
+git stash
+git checkout VRM-4351-label-select-indication
+git reset --soft HEAD~1
+git commit --amend
+git push -f
+git checkout VRM-4286-reference-crosshair
+git stash pop
+cd ~/git
+ls
+cd volview
+git add .
+git commit -m "amend me"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "amend me"
+git checkout VRM-4351-label-select-indication
+git checkout master
+git checkout ccfc6dc925304388bc1e4f192ae61d8e49fdf0dc
+git checkout 8d04ee86e8fbd878e2526762f997aebafbd80df1
+git checkout ccfc6dc925304388bc1e4f192ae61d8e49fdf0dc
+git checkout master
+git checkout 8d04ee86e8fbd878e2526762f997aebafbd80df1
+git checkout VRM-4286-reference-crosshair
+git checkout d84b3d4e81dc4acde4259374727e567da1b9324e
+git checkout VRM-4286-reference-crosshair
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4351-label-select-indication
+git rebase master
+git push -f
+git checkout VRM-4286-reference-crosshair
+clear
+git stash
+git checkout VRM-4351-label-select-indication
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4351-label-select-indication
+git rebase master
+git push -f
+cd ../../
+ls
+cd nimble/waeve
+git remote -v
+git remote add ts git@gitlab.prolucid.ca:Tejal_Nimble/waeve.git
+git fetch --all
+git checkout halt_portV2
+build run
+build solution
+git submodule update --init --recursive
+build solution
+build run
+nvim .
+cd ~
+ls
+cd git
+ls
+cd `Reference Designs\`
+ls
+cd reactive-framework
+cd `~/git/Reference Designs/`
+cd reactive-framework\
+nvim .
+ls
+nvim .
+dotnet build
+dotnet build src/RFW.sln
+build run
+dotnet watch rin src/RFW.sln
+dotnet watch run src/RFW.sln
+dotnet watch src/RFW.sln run
+nvim .
+nvm list
+nvm use 24
+cd ~
+ls
+ls vimfiles
+/.config
+ls config
+ls
+cd .config
+ls
+vd nvim
+cd nvim
+ls
+nvim .
+nvim .
+ls
+cd src
+nvim .
+cd git
+ls
+cd `Reference Designs\`
+ls
+cd re
+cd reactive-framework\
+ls
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c debug
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+cd ../
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+nvim src
+nvim src/
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+dotnet run --project src/RFW.Client.App/RFW.Client.App.csproj -c Debug
+dotnet run
+dotnet run --project src/RFW.Client.App/RFW.Client.App.csproj -c Debug
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+dotnet run --project src/RFW.Client.App/RFW.Client.App.csproj -c Debug
+DOTNET_SYSTEM_CONSOLE_ALLOW_ANSI_COLOR_REDIRECTION=1 dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+dotnet nuget
+dotnet nuget list
+dotnet nuget list -h
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+dotnet package -list
+dotnet package list
+dotnet package list --all
+dotnet package list
+cd .config
+cd nvim
+ls
+nvim init.lua
+ls
+exit
+nvim .
+git add .
+git diff
+git log
+git commit -m "CDTAPP-5 add theme to console sink and ensure it works with dotnet watch"
+nvim .
+nvim src
+dotnet watch --project src/RFW.Client.App/RFW.Client.App.csproj run -c Debug
+build run
+cd .sonfig
+cd .config
+ls
+cd nvim
+ls
+cd lua
+ls
+cd config
+ls
+nvim .
+cd ../../../
+cd nvim
+nvim .
+ls
+cd .config\
+ls
+cd nvim
+nvim .
+cd `~/git/Reference Designs/`
+cd reactive-framework\
+buil run
+build run
+cd ../
+build run
+exit
+ls
+cd git
+.s
+ls
+cd ViTAA\rawmap-cloud\
+cd git/ViTAA/rawmap-cloud/
+git checkout VRM-4286-reference-crosshair
+nvim .
+nvim
+cd git
+ls
+cd volview
+git stash pop
+build run
+winget search radiant
+winget install medixant.radiantDicomviewer
+winget search microdicom
+winget install microdicom.dicomviewer
+cd git/ViTAA/rawmap-cloud/
+git add .
+git commit -m "amend me"
+cd git/ViTAA/rawmap-cloud/
+build run
+cd git/ViTAA/rawmap-cloud/
+git restore .
+cd .config
+ls
+cd nvim
+ls
+cd init.lua
+nvim .
+build run
+nvim init.lua
+git add .
+git commit --amend
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit --amend
+git add .
+git commit --amend
+cd git/volview
+build run
+cd `git/Reference Designs/`
+ls
+cd reactive-framework\
+cd `git/Reference Designs/`
+cd reactive-framework\
+cd `git/Reference Designs/reactive-framework/`
+ls
+build run
+clear
+ls
+nvim .
+clear
+build run
+nvim .
+clear
+build run
+build run
+git add .
+git commit --amend
+clear
+git restore .
+cd git/ViTAA/rawmap-cloud/
+git restore .
+cd git/VolView/
+build run
+cd git/ViTAA/rawmap-cloud/
+ls
+nvim .
+build run
+git add .
+git commit --amend
+git add .
+git commit --amend
+git rebase -i HEAD~2
+git add .
+git commit --amend
+git rebase -i HEAD~2
+git rebase --abort
+git rebase -i HEAD~2
+build run
+npx prettier --write C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\Visualization\Crosshairs\*.{js}
+npx prettier --write "C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\Visualization\Crosshairs\*.{js}"
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/Crosshairs/*.{js}"
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/Crosshairs/*"
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/Crosshairs/CrosshairsWidget/*"
+git add .
+git commit -m "VRM-4286 improve svg"
+git add .
+git commit --amend
+git add .
+git commit -m "VRM-4286 improve svg, re-enable stent-plan, fix tool conflicts"
+git push -f
+git push --set-upstream origin VRM-4286-reference-crosshair
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git push -f
+git add .
+git commit --amend
+git push -f
+build run
+git checkout master
+git remote -v
+git remote add jr git@gitlab.prolucid.ca:joseph.roorda/rawmap-cloud.git
+git fetch --all
+git fetch VRM-4365-fix-carm-angle-display
+git checkout VRM-4365-fix-carm-angle-display
+git restore .
+git checkout VRM-4363-mask-color
+git checkout master
+git branch
+git checkout -b VRM-4368-enable-mpr-with-active-measurement
+git add .
+git commit -m "VRM-4368 enable MPR with active measurement"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4368 enable MPR with active measurement"
+git push -f
+git push --set-upstream origin VRM-4368-enable-mpr-with-active-measurement
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git rebase --continue
+git push -f
+git commit --amend
+git push -f
+git restore .
+cd git
+ls
+mkdir 3DOCS
+cd 3DOCS\
+git clone git@gitlab.prolucid.ca:joshua.varga/3docs-cloud.git
+cd 3docs-cloud\
+git submodule update --init --recursive
+git checkout 711d6bdf3bd98064ea88b5ebf1ee273de0581a8c
+build solution
+build runfull
+build Transpile
+build Elasticert --elasticertfull true
+build
+build run
+build Elasticert --elasticertfull true
+build Transpile
+build RunFull
+build WebDocker
+docker-compose -f deployment\dev\docker-compose-full.yml --env-file deployment\dev\.env up -d
+docker-compose -f deployment\dev\docker-compose-full.yml down
+cd ../../
+cd ViTAA\rawmap-cloud\
+build
+git stash
+git checkout master
+build
+git fetch --all
+git reset --hard upstream/master
+build run
+build Elasticert --elasticertfull true
+build Transpile
+build RunFull
+cd ../../
+cd 3DOCS\3docs-cloud\
+git reflog
+git checkout a6ede16afa2c0b270b127be5b9da516b067aa45b
+build
+build Transpile
+build RunFull
+build WebDocker
+nvim .
+ls
+git reflog
+docker-compose -f deployment\dev\docker-compose-full.yml --env-file deployment\dev\.env up -d
+docker-compose -f deployment\dev\docker-compose-full.yml down
+git checkout master
+build RunFull
+build WebDocker
+docker-compose -f deployment\dev\docker-compose-full.yml --env-file deployment\dev\.env up -d
+wsl -d docker-desktop sysctl -w vm.max_map_count=65530
+wsl -d docker-desktop sysctl -w vm.max_map_count=262144
+docker-compose -f deployment\dev\docker-compose-full.yml down
+git stash pop
+build run
+git checkout VRM-4286-reference-crosshair
+git stash
+git reflog
+git stash list
+git restore .
+git reset --hard HEAD
+git checkout VRM-4286-reference-crosshair
+git stash pop
+git add .
+git commit -m "VRM-4286 update widget visibility when slice is modifed elsewhere"
+git push -f
+build run
+git restore .
+git checkout VRM-4365-fix-carm-angle-display
+git fetch --all
+git reset --hard jr/VRM-4365-fix-carm-angle-dispaly
+git reset jr/VRM-4365-fix-carm-angle-dispaly
+git reset --hard jr/VRM-4365-fix-carm-angle-display
+git checkout master
+git fetch --all
+build run
+cd git/ViTAA/rawmap-cloud/
+build
+build RunFull
+docker-compose deployment\dev\docker-compose-full.yml logs -tf
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+git stash
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+git stash pop
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build RunFull
+ls
+cd git/ViTAA/rawmap-cloud/
+ls
+cd src
+ls
+cd RAWMap.Client\
+ls
+cd bin
+ls
+cd debug
+ls
+cd net8.0\
+ls
+cd ../../../
+cd ../../
+ls
+curl -i https://127.0.0.1/itk/WebWorkers/ImageIO.worker.js -k
+curl -Ik https://127.0.0.1/itk/ImageIOs/itkDICOMImageSeriesReaderJSBindingWasm.wasm -k
+build RunFull
+curl -Ik https://127.0.0.1/itk/WebWorkers/ImageIO.worker.js -k
+docker ps
+docker exec -it 330bb22cb43f bash
+docker ps
+docker exec -it 7b351b9bf96e bash
+cd git/NIMBLE/waeve/
+git checkout master
+git checkout main
+docker exec -it 7b351b9bf96e bash
+docker exec -it 7b351b9bf96e sh
+docker exec -it 330bb22cb43f bash
+curl http://localhost:8080/itk/WebWorkers/itkWebWorker.js
+curl http://127.0.0.1/itk/WebWorkers/itkWebWorker.js
+curl -sSI http://localhost:8080/itk/WebWorkers/itkWebWorker.js | awk '/HTTP\/|Location:/'
+powershell
+curl -I http://localhost:8080/itk/WebWorkers/itkWebWorker.js
+curl -I http://127.0.0.1/itk/WebWorkers/itkWebWorker.js
+curl -I https://127.0.0.1/itk/WebWorkers/itkWebWorker.js
+build RunFull
+cd git/ViTAA/rawmap-cloud/
+docker exec -it 7b351b9bf96e sh
+build RunFull
+curl -I https://127.0.0.1/favicon.png
+curl -I http://127.0.0.1/favicon.png
+curl -I http://127.0.0.1/fart
+curl -I https://127.0.0.1/favicon.png
+curl -Ik https://127.0.0.1/favicon.png
+curl -Ik https://127.0.0.1/fart
+curl -Ik https://127.0.0.1/itk
+curl -Ik https://127.0.0.1/logo-small.png
+curl -kI https://127.0.0.1/itk/
+curl -kI https://localhost:8443/itk/WebWorkers/itkWebWorker.js
+curl -kI https://127.0.0.1/itk/WebWorkers/itkWebWorker.js
+curl -Ik https://127.0.0.1/itk/WebWorkers/ImageIO.worker.js -k
+curl -Ik https://127.0.0.1/itk -k
+cd itk
+ls
+docker exec -it 7b351b9bf96e sh
+ls
+docker ps
+build runfull
+build
+build runfull
+docker exec -it f80d4513e4e7 sh
+build run
+build runfull
+docker-compose -f deployment\dev\docker-compose-full.yml down
+build transpile
+bild runfull
+build runfull
+cd ~/git/Nimble/waeve
+git restore .
+cd git/ViTAA/rawmap-cloud/
+build
+build runfull
+build
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+nvim .
+build transpile
+build runfull
+build transpile
+build runfull
+build transpile
+build runfull
+docker exec -it 2da7fdf3ffb4 sh
+docker exec -it bd8567235961 sh
+curl -Ik https://127.0.0.1/itk -k
+build runfull
+git stash
+git checkout VRM-4365-fix-carm-angle-display
+git reset --hard jr/VRM-4365-fix-carm-angle-display
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git reset --hard jr/VRM-4365-fix-carm-angle-display
+build run
+clear
+git checkout master
+git stash pop
+build runfull
+build transpile
+build runfull
+cd git/ViTAA/rawmap-cloud/
+build transpile
+winget search lazygit
+winget install lazygit
+build runfull
+git checkout -b VRM-4378-improve-dicom-read
+nvim .
+lazygit --version
+nvim .
+cd git/ViTAA/rawmap-cloud/
+git reflog
+git push -f
+git push --set-upstream origin VRM-4378-improve-dicom-read
+clear
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4286-reference-crosshair
+git checkout master
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git add .
+git rebase --continue
+git add .
+git commit -m "VRM-4286 disable crosshair tool outside of MPR"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git reflog
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git push -f
+git restore .
+nvim .
+git checkout VRM-4368
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git rebase master
+build run
+ls
+cd git/NIMBLE/waeve/
+git remote -v
+git fetch --all
+git checkout UI
+git stash
+git checkout UI
+dotnet watch --project src/Waeve.App/Waeve.App.csproj run --Debug
+git submodule update --init --recursive
+build solution
+dotnet watch --project src/Waeve.App/Waeve.App.csproj run --Debug
+build run
+cd git/NIMBLE/waeve/
+ls
+git branch -l
+git branch -lr
+git checkout language_dropdown
+build run
+build solution
+cd git/NIMBLE/waeve/
+git checkout UI
+ls
+cd src
+ls
+cd Waeve.AP
+cd Waeve.App\
+ls
+cd ../../
+buil run
+build run
+build solution
+git restore .
+build solution
+build run
+build solution
+build run
+nvim .
+cd ../../
+cd ViTAA\rawmap-cloud\
+ls
+cd ViTAA\rawmap-cloud\
+cd git\ViTAA\rawmap-cloud\
+git restore .
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4286-reference-crosshair
+git rebase master
+git push -f
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git restore .
+git checkout VRM-4286-reference-crosshair
+git add .
+git push -f
+cd git\ViTAA\rawmap-cloud\]
+cd git\ViTAA\rawmap-cloud\
+git checkout VRM-4378-improve-dicom-read
+git add .
+git commit -m "VRM-4378 add globalLimit to itk location"
+git push -f
+ls
+git remote add cs git@gitlab.prolucid.ca:charles.stewart/rawmap-cloud.git
+git fetch --all
+git commit -m "VRM-4378 add globalLimit to itk location"
+ls
+cd git\ViTAA\rawmap-cloud\
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4378-improve-dicom-read
+git rebase master
+git push -f
+git rebase --cancel
+git rebase --abort
+git rebase master
+git rebase --continue
+git push -f
+git add .
+git commit -m "VRM-4378 rebase fix"
+git push -f
+git checkout VRM-4378-improve-dicom-read
+git checkout VRM-4367-bump-tool
+git checkout master
+git checkout 9b1bd1ba1f70570aea853dd4b5b41d68fde1d80b
+build run
+git restore .
+git checkout 9b1bd1ba1f70570aea853dd4b5b41d68fde1d80b
+build run
+build
+git checkout 913b2d850a8cb98bd9dfcb2b0ac280d44786ea1c
+git checkout 8c7c20951e335b572bc060e042ff6a19570563c5
+git checkout 913b2d850a8cb98bd9dfcb2b0ac280d44786ea1c
+git checkout 8c7c20951e335b572bc060e042ff6a19570563c5
+git checkout VRM-4367-bump-tool
+build run
+build
+git restore .
+clear
+build run
+build
+build run
+git checkout master
+build
+git checkout VRM-4367-bump-tool
+build run
+nvim .
+git restore .
+build
+git fetch --all
+git checkout master
+build transpile
+build
+git checkout VRM-4367-bump-tool
+git reset --hard cs/VRM-4367-bump-tool
+build run
+git checkout master
+git reset --hard upstream/master
+build run
+git restore .
+build
+dotnet paket restore
+dotnet tool restore
+dotnet paket restore
+build
+git checkout VRM-4367-bump-tool
+git restore .
+git checkout master
+git checkout 8c49bf2efcf5c25a83f996f0575704df576687e2
+build run
+git checkout 8d04ee86e8fbd878e2526762f997aebafbd80df1
+git checkout 4231080b30037d6f08a4945134793a5aad621023
+git checkout 4ac38f5a1d671598c47566552f6999791a19b673
+git checkout master
+git restore .
+git checkout master
+git stash
+git checkout VRM-4367-bump-tool
+git fetch --all
+git stash pop
+git stash
+git stash pop
+git restore .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+npm list
+npm update vtk.js
+npm audit fix
+npm audit fix --force
+build run
+build
+git restore .
+npm update vtk.js 
+nvm use 18
+npm update vtk.js 
+npm list
+npm update vtk.js@latest
+npm update itk
+npm install itk@latest
+npm install vtk.js@latest
+build run
+build
+cd git/NIMBLE/waeve/
+git checkout language_dropdown
+git fetch --all
+git reset --hard ts/language_dropdown
+git checkout language_dropdown
+git reset --hard ts/language_dropdown
+build run
+build solution
+build run
+build solution
+build run
+git restore .
+git checkout 4231080b30037d6f08a4945134793a5aad621023
+build run
+build
+dotnet tool restore
+build
+git checkout 4ac38f5a1d671598c47566552f6999791a19b673
+git checkout master
+git restore .
+git checkout master
+build run
+git restore .
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout language_dropdown
+git reset --hard ts/language_dropdown
+build run
+build solution
+build run
+nvm list
+nvm use 24.9.0
+cd git/NIMBLE/waeve/
+build solution
+nvim .
+nvim
+cd git/NIMBLE/waeve/
+build
+build solution
+build run
+dotnet nuget check
+dotnet list package --vulnerable
+dotnet list package
+ls
+cd src
+cd Waeve.UI
+dotnet list package
+dotnet list package --vulnerable
+cd ../
+dotnet list package --vulnerable
+cd Waeve.Core
+dotnet list package --vulnerable
+dotnet list package
+cd ../
+cd Waeve.Language
+dotnet list package
+cd ../
+ls
+cd Waeve.Algorithms.Wrappers
+dotnet list package
+cd ../
+git fetch --all
+build run
+ls
+cd ../
+build run
+git restore .
+build solution
+dotnet watch msbuild run
+dotnet watch msbuild --project src/Waeve.App/Waeve.App.csproj run
+dotnet watch --project src/Waeve.App/Waeve.App.csproj run
+dotnet watch msbuild --project src/Waeve.App/Waeve.App.csproj /t:Build
+build run
+dotnet watch --project src\Waeve.App\Waeve.App.csproj run
+dotnet watch --project src\Waeve.App\Waeve.App.csproj run --property:BuildProjectReferences=false
+build run
+cd git/ViTAA/rawmap-cloud/
+git restore .
+git fetch --all
+git reset --hard upstream/master
+build
+git stash
+build run
+cd git/ViTAA/rawmap-cloud/
+git restore .
+kj:w
+:w
+git restore .
+cd git
+git clone https://github.com/Kitware/vtk-js.git
+ls
+cd vtk-js
+ls
+git restore .
+git stash pop
+git checkout -b VRM-4379-chrome-masks
+git add .
+git commit -m "VRM-4379 synthetic mask working"
+git format-patch -1 <commit-hash>
+git reflog
+git format-patch -1 bc3d83bb
+ls
+explorer .
+git checkout master
+git apply 0001-VRM-4379-synthetic-mask-working.patch
+git checkout VRM-4379-chrome-masks
+git stash
+git checkout VRM-4379-chrome-masks
+git stash pop
+git add .
+git checkout VRM-4379-chrome-masks
+git stash
+git checkout VRM-4379-chrome-masks
+git restore .
+git checkout VRM-4379-chrome-masks
+exploreer .
+explorer .
+git checkout VRM-4379-chrome-masks
+git stash pop
+reflog
+git reflog
+git reflog
+git add .
+explorer .
+git add .
+git commit --amend
+git log
+git push -f
+git push --set-upstream origin VRM-4379-chrome-masks
+explorer .
+git add .
+git commit --amend
+git push -f
+git add .
+git commit --amend
+git push -f
+cd git/NIMBLE/waeve/
+git fetch --all
+git reset --hard ts/language_dropdown
+cd git/NIMBLE/waeve/
+build
+git restore .
+build solution
+git restore .
+build solution
+dotnet tool restore
+dotnet restore
+dotnet restore src/Waeve.sln
+git reset --hard ts/language_dropdown
+build run
+nvim .
+git reset --hard ts/language_dropdown
+build solution
+explorer .
+git reset --hard ts/language_dropdown
+git submodule update --init --recursive
+build solution
+build run
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+git checkout VRM-4262-lumen-abif
+git checkout master
+git checkout -b VRM-4286-reference-crosshair-pt2
+git add .
+git push -f
+git push --set-upstream origin VRM-4286-reference-crosshair-pt2
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git rebase master
+build run
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git rebase master
+git restore .
+git add .
+git commit -m VRM-4368 fix mesh viewport scrolling after cancelling measurement in MPR
+git commit -m "VRM-4368 fix mesh viewport scrolling after cancelling measurement in MPR"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4368 fix mesh viewport scrolling after cancelling measurement in MPR"
+git push -f
+git checkout master
+git restore .
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git add .
+git commit --amend
+git push -f
+build run
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git checkout VRM-contour-update
+git checkout VRM4335-contour-update
+git checkout VRM-4335-contour-update
+build run
+build
+git stash list
+cd git/NIMBLE/waeve/
+build run
+build solution
+git fetch --all
+cd git/NIMBLE/waeve/
+git fetch --all
+git restore .
+git checkout temporary
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout language_dropdown
+git reset --hard ts/language_dropdown
+build solution
+git checkout language_dropdown
+git reset --hard ts/language_dropdown
+build solution
+git fetch --all
+git reset --hard ts/language_dropdown
+build solution
+build run
+git restore .
+git fetch --all
+git checkout VRM-4262-lumen-abif
+build run
+git restore .
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git checkout master
+git stash
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git stash pop
+git add .
+git commit -m "VRM-4368 fix mesh <-> dicom view hovering issue"
+git push -f
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4262-lumen-abif
+clear
+git add .
+git commit -m "VRM-4262 update slider value with lumen for A BIF"
+git format-patch -1 HEAD
+explorer .
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git rebase master
+git push -f
+git checkout VRM-4335-contour-update
+build
+git fetch --all
+git checkout master
+git restore .
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4368-enable-mpr-with-active-measurement
+git rebase master
+git push -f
+git checkout VRM-4335-contour-update
+git restore .
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+build run
+build
+git fetch --all
+cd `git/Reference Designs/reactive-framework/`
+git log
+cd ../
+build run
+git add .
+git commit -m "CDTAPP-5 add run build target and update device selection"
+git push -f
+git checkout VRM-4335-contour-update
+git restore .
+git checkout VRM-4335-contour-update
+build run
+build
+git checkout master
+git restore .
+git checkout master
+git stash
+git checkout VRM-4335-contour-update
+git restore .
+git fetch --all
+git restore jr/VRM-4335-contour-update
+git reset --hard jr/VRM-4335-contour-update
+git reset --hard
+git restore
+git restore .
+nvim .
+git reset --hard jr/VRM-4335-contour-update
+git checkout master
+git stash pop
+git checkout -b VRM-4384-dummy-buttons
+git stash
+git checkout master
+git fetch --all
+git reset --hard master
+git checkout VRM-4379-chrome-masks
+git rebase master
+git push -f
+git checkout VRM-4384-dummy-buttons
+git stash pop
+git add .
+git commit -m "VRM-4384 dummy buttons"
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4384 dummy buttons"
+git push -f
+git checkout master
+git fetch --all
+git checkout VRM-4379-chrome-masks
+git rebase master
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4379-chrome-masks
+git rebase master
+git rebase --continue
+git push -f
+git checkout VRM-4384-dummy-buttons
+git rebase master
+git rebase --abort
+git rebase master
+git rebase --continue
+git push -f
+git push --set-upstream origin VRM-4384-dummy-buttons
+explorer .
+git add .
+git commit --amend
+git push -f
+git add .
+git commit -m "VRM-4384 jankily stack buttons"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4384 jankily stack buttons"
+git push -f
+git add .
+git commit -m "VRM-4384 update modal text"
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4384-dummy-buttons
+git rebase master
+git push -f
+git fetch --all
+git checkout VRM-4313-CPR-Centerline-Editing
+git remote add ss git@gitlab.prolucid.ca:scott.shingler/rawmap-cloud.git
+git fetch --all
+git checkout VRM-4313-CPR-Centerline-Editing
+git checkout master
+git checkout VRM-4313-CPR-Centerline-Editing
+gi checkout -b "VRM-4387-button-cleanup"
+git checkout -b "VRM-4387-button-cleanup"
+git add .
+git commit -m "VRM-4387 change back to study button to an icon"
+cd git/NIMBLE/waeve/
+build run
+cd ../../../
+cd git/ViTAA/rawmap-cloud/
+git add .
+git commit -m "VRM-4387 add dropdowns"
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+cd rawmap-cloud\
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4387 add dropdowns"
+git push -f
+git push --set-upstream origin VRM-4387-button-cleanup
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4384-dummy-buttons
+git rebase master
+git push -f
+git rebase -i HEAD~2
+git checkout VRM-4387-button-cleanup
+git rebase master
+git push -f
+cd git/NIMBLE/waeve/
+fit fetch --all
+git fetch --all
+git reset --hard ts/language_dropdown
+build run
+build solution
+build run
+build solution
+build run
+build solution
+build run
+build solution
+build run
+cd git/NIMBLE/waeve/
+git add .
+git commit -m "add language dropdown"
+git rebase -i 953ce1498d343b6fb41d3d0795872df22638e21b
+git rebase --abort
+git rebase -i 953ce1498d343b6fb41d3d0795872df22638e21b
+git rebase --abort
+git log
+git commit --amend
+git add .
+git commit --amend
+git reset --soft 953ce1498d343b6fb41d3d0795872df22638e21b
+git log
+git commit -m "Forced MR review"
+git rebase -i HEAD~2
+build run
+git add .
+git commit --amend
+build run
+git push -f
+git add .
+git commit --amend
+git push -f
+cd git/ViTAA/rawmap-cloud/
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+build
+cd git/ViTAA/rawmap-cloud/
+git restore .
+git clear
+clear
+git restore .
+git stash
+git checkout -b "VRM-4393 fix mesh viewport slice jumping"
+git checkout -b "VRM-4393-crosshair-fixes"
+git add .
+git commit -m "VRM-4393 fix mesh view jumps"
+build run
+git fetch --all
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+cd ~
+cd ./ssh
+ls
+cd .ssh
+ls
+nvim known_josts
+rm known_hosts
+cd ~
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+ls
+cd ~
+cd .ssh
+ls
+cd git/ViTAA/rawmap-cloud/
+ls
+git log
+git add .
+git commit -m "VRM-4393 fix all the things"
+git push -f
+git push --set-upstream origin VRM-4393-crosshair-fixes
+git restore .
+git add .
+git commit --amend
+git add .
+git commit -m "VRM-4393 cleanup"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4393-crosshair-fixes
+git rebase master
+git push -f
+git add .
+git commit -m "VRM-4393 add NaN check"
+git push -f
+git checkout master
+git checkout VRM-4393-crosshair-fixes
+git restore .
+git add .
+git commit -m "VRM-4393 address MR comments"
+git push -f
+git add .
+git commit -m "VRM-4393 more fixes"
+git push -f
+git restore .
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git restore .
+git checkout a6362e76b8d85821dd4ebd16f40e760b171c4210
+git checkout VRM-4393-crosshair-fixes
+git stash
+git checkout VRM-4393-crosshair-fixes
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4393-crosshair-fixes
+git rebase master
+git push -f
+git checkout a6362e76b8d85821dd4ebd16f40e760b171c4210
+git restore .
+git checkout VRM-4393-crosshair-fixes
+git restore .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4393-crosshair-fixes
+git rebase master
+git push -f
+build run
+cd git/ViTAA/rawmap-cloud/
+cd git/ViTAA/rawmap-cloud/
+build run
+git checkout -b "VRM-4373-fix-flicker"
+git fetch --all
+git checkout master
+git checkout VRM-4373-fix-flicker
+git add .
+git remove yarn.lock
+git reset yarn.lock
+git commit -m "VRM-4373 fix slice plane awkwardness"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git reset yarn.lock
+git commit -m "VRM-4373 fix slice plane awkwardness"
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4373-fix-flicker
+git rebase master
+git checkou VRM-4342-ring-highlight-mismatch
+git checkout VRM-4342-ring-highlight-mismatch
+clear
+git restore .
+git checkout VRM-4373-fix-flicker
+git restore .
+ditnet --info
+dotnet --info
+dotnet tool update -g fsautocomplete
+cd .config
+ls
+cd nvim
+ls
+cd lua
+ls
+cd plugins
+ls
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git push -f
+git push --set-upstream origin VRM-4373-fix-flicker
+cd git/ViTAA/rawmap-cloud/
+ls
+nvim .
+explorer .
+git add .
+git commit --amend
+git push -f
+git fetch --all
+git checkout master
+git checkout "VRM-4373-fix-flicker"
+git remote add ak git@gitlab.prolucid.ca:aws.kudair/rawmap-cloud.git
+git fetch --all
+git checkout VRM-4364-DuoView
+git checkout VRM-4359-dicom-shared
+build run
+build solution
+build
+cd git/ViTAA/rawmap-cloud/
+ls
+cd src/RAWMap.Client/public/data/
+ls
+cd .config/nvim/lua/plugins/
+ls
+cd .config/nvim/lua/plugins/
+ls
+rm lsp.lua
+cd ~/git/ViTAA/rawmap-cloud/
+git restore .
+winget upgrade
+winget upgrade --all
+nvim
+cd .config/nvim/lua/plugins/
+ls
+nvim smear_cursor.lua
+cd ../
+ncim
+git fetch --all
+git checkout VRM-4373-fix-flicker
+git restore .
+git checkout VRM-4373-fix-flicker
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4373-fix-flicker
+git rebase master
+nvim
+cd git/ViTAA/rawmap-cloud/
+cd .config/nvim/lua/plugins/
+nvim smear_cursor.lua
+rm smear_cursor.lua
+nvim
+nvim
+winget search treesittercli
+winget search treesitter-cli
+winget search tree-sitter-cli
+winget search tree-sitter
+npm install -g tree-sitter-cli
+git restore .
+git commit -m "VRM-4373 add mesh viewport scrolling with selected measurement"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git commit -m "VRM-4373 add mesh viewport scrolling with selected measurement"
+git push -f
+git fetch --all
+git checkout master
+git restore .
+git reset --hard upstream/master
+git checkout VRM-4373-fix-flicker
+git rebase master
+git push -f
+git restore .
+cd git/ViTAA/rawmap-cloud/
+git diff
+git restore .
+npx prettier --write foo.js
+git checkout master
+git restore .
+git fetch --all
+git reset --hard upstream/master
+dotnet tools list
+cd ../
+dotnet tools list
+dotnet tools --list
+dotnet tools -h
+dotnet -h
+dotnet tool --list
+dotnet tool list
+dotnet tool update fantomas-tool
+ls
+cd .config/nvim/lua
+ls
+cd config
+ls
+nvim .
+cd git/ViTAA/rawmap-cloud/
+explorer .
+cd git/ViTAA/rawmap-cloud/
+git checkout VRM-4307-device-selection-placeholder
+git checkout -b VRM-4307-device-selection-placeholder
+nvim .
+cd git/ViTAA/rawmap-cloud/
+nvim .
+cd git/ViTAA/rawmap-cloud/
+nvim .
+git restore yarn.lock
+git add .
+git commit -m "VRM-4307 add device selection placeholder"
+build run
+build
+git restore yarn.lock
+git restore yarn.lock
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/CenterlineMeasurement/StentPlanning/SharedTypes.fs
+dotnet fantomas src/RAWMap.Models/Common.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4307 add device selection placeholder"
+git push -f
+git push --set-upstream origin VRM-4307-device-selection-placeholder
+git fetch --all
+git checkout VRM-4373-fix-flicker
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4373-fix-flicker
+git rebase master
+git push -f
+git checkout master
+git restore .
+build run
+ls
+cd ~
+cd git/ViTAA/rawmap-cloud/
+build
+git restore .
+git fetch --all
+git reset --hard upstream/master
+build run
+git restore .
+git checkout -b VRM-4403-fix-camera-reset
+git add .
+git commit -m "VRM-4403 set intersection plane to always be saggital for mesh viewport"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4403 set intersection plane to always be saggital for mesh viewport"
+git push -f
+git push --set-upstream origin VRM-4403-fix-camera-reset
+git checkout master
+git checkout -b "VRM-4407-remove-stent-plan-auto-close"
+git add .
+git commit -m "VRM-4407 remove stent plan auto close"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4407 remove stent plan auto close"
+git push -f
+git push --set-upstream origin VRM-4407-remove-stent-plan-auto-close
+git checkout master
+git restore .
+git checkout master
+git checkout -b "VRM-4408-measurement-auto-confirm"
+git restore .
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4408 update measurement when selecting new one"
+git branch -m VRM-4408-add-update-to-label-click
+git push -f
+git push --set-upstream origin VRM-4408-add-update-to-label-click
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout -b "VRM-4409-autp-diameter-recalc"
+git add .
+git commit -m "VRM-4409 remove measurement update button and make automatic"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4409 remove measurement update button and make automatic"
+git branch -m "VRM-4409-auto-diameter-recalc"
+git push -f
+git push --set-upstream origin VRM-4409-auto-diameter-recalc
+git checkout master
+git restore .
+git checkout master
+git checkout VRM-4403-fix-camera-reset
+git rebase master
+git push -f
+git checkout "VRM-4407-remove-stent-plan-auto-close"
+git checkout master
+git restore .
+git checkout "VRM-4407-remove-stent-plan-auto-close"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout "VRM-4407-remove-stent-plan-auto-close"
+git rebase master
+git push -f
+git restore .
+git checkout master
+git checkout -b "VRM-4405-true-axis"
+git add .
+winget install vlc
+winget install VideoLAN.VLC
+git add .
+git commit -m "amend me"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4405-fix-axis
+git checkout VRM-4405-true-axis
+git checkout demo
+git reset --hard upstream/master
+git rebase VRM-4307-device-selection-placeholder
+git rebase --continue
+git rebase VRM-4408-add-update-to-label-click
+git rebase --continue
+git rebase VRM-4409-auto-diameter-recalc
+git checkout VRM-4405-true-axis
+git restore .
+git checkout VRM-4405-true-axis
+build run
+git fetch --all
+git checkout master
+git restore .
+git reset --hard upstream/master
+git checkout VRM-4409-audo-diameter-recalc
+git checkout VRM-4409-auto-diameter-recalc
+git rebase master
+git push -f
+git checkout VRM-4408-add-update-to-label-click
+git rebase master
+git rebase --continue
+git push -f
+git restore .
+git commit -m "VRM-4408 fix selecting new measurement when active measurement has no changes"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4408 fix selecting new measurement when active measurement has no changes"
+git push -f
+git branch -l
+git checkout VRM-4409-auto-diameter-recalc
+git rebase master
+git checkout VRM-4405-true-axis
+git rebase master
+git restore .
+git checkout VRM-4408-add-update-to-label-click
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4408-add-update-to-label-click
+git rebase master
+git push -f
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4307-device-selection-placeholder
+git rebase master
+cd git/ViTAA/rawmap-cloud/
+explorer .
+git commit -m "VRM-4307 rebase fixes"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git push -f
+nvim
+build run
+build
+npm install
+build
+node dev\rawmap-device-selection-algo\index.js
+git commit -m "VRM-4307 integrate ViTAA device selection algorithm"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningBindings.fs
+git commit -m "VRM-4307 integrate ViTAA device selection algorithm"
+git commit -m "VRM-4307 remove reanalysis button"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git commit -m "VRM-4307 remove reanalysis button"
+git push -f
+git fetch --all
+git checkout master
+git restore .
+git reset --hard upstream/master
+git checkout VRM-4307-device-selection-placeholder
+git rebase master
+git push -f
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+git checkout 0.3.0
+ls
+rmdir -rf vcpkg
+rm -rf vcpkg
+rm -rf vcpkg_installed
+ls
+build run
+build
+git checkout master
+git checkout 705a6a65bed062f7f13bd33cc561647d8b9d4e1c
+build run
+git checkout f818ef4455e11cbda742dbcdd314048797229cd0
+git checkout VRM-4307-device-selection-placeholder
+git restore .
+git commit -m "VRM-4307 remove generate report button and change some colours"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git commit -m "VRM-4307 remove generate report button and change some colours"
+git push -f
+explorer .
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout -b VRM-4426-device-selection-updates
+git commit -m "VRM-4426 remove device selection button for Research designations"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git commit -m "VRM-4426 remove device selection button for Research designations"
+git commit -m "VRM-4416 return result when converting to simplified stent measurement"
+dotnet fantomas src/RAWMap.Models/ErrorMessage.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/CenterlineMeasurement/StentPlanning/SharedTypes.fs
+git commit -m "VRM-4416 return result when converting to simplified stent measurement"
+build run
+git push -f
+git push --set-upstream origin VRM-4426-device-selection-updates
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+build run
+git checkout VRM-4426-device-selection-updates
+git commit -m "VRM-4426 remove stent planning button for Research designations"
+dotnet fantomas src/RAWMap.Client/Study/AnalysisForm/AnalysisFormView.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git commit -m "VRM-4426 remove stent planning button for Research designations"
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git fetch --all
+git reset --hard upstream/master
+git checkout -b VRM-4431-remove-crosshairs-from-centerline
+git add .
+git commit -m "VRM-4431 remove crosshairs from centerline viewports"
+git push -f
+git push --set-upstream origin VRM-4431-remove-crosshairs-from-centerline
+git checkout master
+winget update --all
+nvim .
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+git restore .
+cd git/ViTAA/rawmap-cloud/
+git stash
+git log
+git checkout 6156cdc326a1c47734b37e6dc2851524f2bf7f9b
+build run
+build
+build run
+build
+git checkout master
+git stash pop
+nvim .
+git restore .
+git checkout -b "VRM-4432"
+git commit -m "VRM-4432 fix mask not updating on cancel"
+build
+git branch -m VRM-4432-centerline-segmentation-rendering-fix
+git log
+git push -f
+git push --set-upstream origin VRM-4432-centerline-segmentation-rendering-fix
+git stash
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4432-centerline-segmentation-rendering-fix
+git rebase master
+git push -f
+git stash apply
+git commit -m "VRM-4432 fix stent measurement recalc workflow"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git commit -m "VRM-4432 fix stent measurement recalc workflow"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4432-centerline-segmentation-rendering-fix
+git rebase master
+git checkout -b VRM-4433-centerline-diameter-cancel-fix
+git commit --amend
+git push -f
+git push --set-upstream origin VRM-4433-centerline-diameter-cancel-fix
+git commit --amend
+git push -f
+git add .
+git commit --amend
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit --amend
+git push -f
+ls
+git checkout master
+git restore .
+git checkout master
+npm ls
+npm install vtk.js@latest
+git restore .
+nvm use 18
+npm install vtk.js@latest
+build run
+build
+build run
+git restore .
+git branch -l
+git checkout VRM-4433-centerline-diameter-cancel-fix
+build
+nvim .
+nvm ls
+nv use 24
+nvm use 24
+git restore .
+cd git/ViTAA/rawmap-cloud/
+git apply "C:\Users\JoshuaVarga\Downloads\VRM-4433.patch"
+git apply "C:/Users/JoshuaVarga/Downloads/VRM-4433.patch"
+git commit -m "VRM-4433 fix related measurements not applying modified diameters"
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git commit -m "VRM-4433 fix related measurements not applying modified diameters"
+git push -f
+git commit --amend
+git push -f
+git commit --amend
+git push -f
+git restore .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4433-centerline-diameter-cancel-fix
+git rebase master
+git push -f
+git fetch --all
+git checkout master
+git restore .
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+git checkout 176d11114a2c3b89e12617bf76010295a4081abb
+build run
+build
+build run
+git checkout master
+build
+git master
+git checkout master
+git checkout -b VRM-4437-index-fix
+git commit -m "VRM-4437 fix indicies"
+dotnet fantomas src/RAWMap.Client/Visualization/SlicePlane/SlicePlaneState.fs
+git commit -m "VRM-4437 fix indicies"
+git push -f
+git push --set-upstream origin VRM-4437-index-fix
+git commit --amend
+dotnet fantomas src/RAWMap.Client/Visualization/SlicePlane/SlicePlaneState.fs
+git commit --amend
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4437-index-fix
+git rebase master
+git push -f
+git checkout VRM-4437-index-fix
+git restore .
+git restore .
+git checkout -b VRM-4430-fix-lumen-wall-mixup
+git add .
+git commit -m "VRM-4430 fix lumen wall muxup"
+git push -f
+git push --set-upstream origin VRM-4430-fix-lumen-wall-mixup
+git checkout VRM-4437-index-fix
+git commit --amend
+git checkout VRM-4430-fix-lumen-wall-mixup
+git rebase VRM-4437-index-fix
+git rebase -i HEAD~2
+git commit --amend
+git push -f
+git checkout VRM-4437-index-fix
+git commit --amend
+git push -f
+git checkout VRM-4437-index-fix
+git push -f
+git checkout VRM-4430-fix-lumen-wall-mixup
+git rebase -i HEAD~2
+git log
+git push -f
+git fetch --all
+git checkout -b VRM-4437-fix-slice-resetting-on-cancel-or-confirm
+nvim .
+git commit -m "VRM-4437 fix slice resetting on cancel or confirm"
+dotnet fantomas src/RAWMap.Client/Visualization/SlicePlane/SlicePlaneState.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git commit -m "VRM-4437 fix slice resetting on cancel or confirm"
+git push -f
+git push --set-upstream origin VRM-4437-fix-slice-resetting-on-cancel-or-confirm
+git branch -m VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+git commit --amend
+git push -f
+git push --set-upstream origin VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+git restore .
+git checkout 176d11114a2c3b89e12617bf76010295a4081abb
+build run
+build
+git checkout 1.7.1
+git checkout v1.7.1
+git restore .
+git checkout v1.7.1
+build run
+build
+build run
+git checkout VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+git restore .
+git checkout VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+build
+git restore .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4430-fix-lumen-wall-mixup
+git rebase master
+git push -f
+git checkout VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+git restore .
+winget search paraview
+winget install Kitware.ParaView
+git restore .
+git checkout VRM-4430-fix-lumen-wall-mixup
+git restore .
+git add .
+git commit -m "VRM-4430 only use ref where needed"
+git push -f
+git add .
+git commit --amend
+git push -f
+git checkout VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+git checkout -b VRM-4440-dont-name-things-the-same
+git commit -m "VRM-4440 pass correct input to addLabelAndChildren function"
+git push -f
+git push --set-upstream origin VRM-4440-dont-name-things-the-same
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4438-fix-slice-resetting-on-cancel-or-confirm
+git rebase master
+git log
+git push -f
+git checkout VRM-4440-dont-name-things-the-same
+git checkout master
+git checkout VRM-4440-dont-name-things-the-same
+git fetch --all
+git checkout master
+git restore .
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4440-dont-name-things-the-same
+git rebase master
+git push -f
+build run
+cd git/ViTAA/rawmap-cloud/
+cd C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\public\data
+ls
+rm -rf UI_Data_Files_centerline_segmentation_masks\
+rm -rf UI_Data_Files_nov_18_2025\
+cd C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\public\data\UI_Data_Files_centerline_segmentation_masks\UI_Files
+ls
+nvim .
+cd C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\public\data\UI_Data_Files_nov_18_2025\UI_Files
+ls
+nvim .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git restore .
+git restore .
+cd git/ViTAA/rawmap-cloud/
+git restore .
+git stash
+git stash pop
+git checkout -b VRM-4439-adjust-slice-plane-indices
+git commit -m "VRM-4439 always use distance filter"
+git push -f
+git push --set-upstream origin VRM-4439-adjust-slice-plane-indices
+cd git/ViTAA/rawmap-cloud/
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+explorer .
+git checkout -b VRM-4307-device-selection
+git add .
+git commit -m "VRM-4307 update device selection PoC again"
+git push -f
+git push --set-upstream origin VRM-4307-device-selection
+git add .
+git commit --amend
+git push -f
+explorer .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git restore .
+cd git/ViTAA/rawmap-cloud/
+ls
+git rebase master
+git git commit -m "VRM-4307 fix additionals"
+git commit -m "VRM-4307 fix additionals"
+git push -f
+scp "C:\Users\JoshuaVarga\Documents\rawmap-cloud-V2.0-RC3.zip" vitaa@127.0.0.1:/home/user/
+scp "C:/Users/JoshuaVarga/Documents/rawmap-cloud-V2.0-RC3.zip" vitaa@127.0.0.1:/home/user/
+scp "C:/Users/JoshuaVarga/Documents/rawmap-cloud-V2.0-RC3.zip" vitaa@172.31.199.218:/home/user/
+scp "C:/Users/JoshuaVarga/Documents/rawmap-cloud-V2.0-RC3.zip" vitaa@172.31.199.218:/home/
+scp "C:/Users/JoshuaVarga/Documents/rawmap-cloud-V2.0-RC3.zip" vitaa@172.31.199.218:/home/vitaa/
+cd git/ViTAA/rawmap-cloud/
+ls
+dotnet tool resore
+nvim .
+dotnet tool resore
+dotnet tool restore
+build
+dotnet paket restore
+nvim .
+build
+dotnet paket resttore
+dotnet paket restore
+paket install
+dotnet paket install
+build
+nvim .
+build
+nvim .
+build
+nvim .
+ls
+git clone git@gitlab.prolucid.ca:vitaa/rawmap-cloud.git
+cd rawmap-cloud-V2.0-RC3\rawmap-cloud\
+rm -rf paket.lock
+dotnet paket install
+dotnet tool restore
+nvim .
+dotnet tool restore
+paket install
+d otnet paket install
+dotnet paket install
+build
+dotnet paket restore
+build
+git clone git@gitlab.prolucid.ca:vitaa/rawmap-cloud.git
+cd rawmap-cloud\
+cd ../
+git remote -v
+git checkout -b dev-env
+dotnet tool restore
+dotnet paket install
+git commit -m "regenerate paket.lock and update to RC5"
+git add .
+git commit -m "regenerate paket.lock and update to RC5"
+build
+cd git/ViTAA/rawmap-cloud/
+nvim .
+build
+cd C:\Users\JoshuaVarga\git\rawmap-cloud-V2.0.0\rawmap-cloud
+ls
+build
+cd ../
+build
+dotnet paket restore
+dotnet paket remove AspNetCore.Identity.PostgreSQL.Schema
+dotnet paket add AspNetCore.Identity.PostgreSQL.Schema
+paket restore
+dotnet paket restore
+dotnet paket remove AspNetCore.Identity.PostgreSQL.Schema
+paket install
+dotnet paket install
+dotnet paket add AspNetCore.Identity.PostgreSQL.Schema
+dotnet paket install
+nvim .
+dotnet paket restore
+paket install
+dotnet paket install
+paket install
+dotnet paket install
+build
+git restore .
+build
+build clean
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+dottnet tool restore
+dotnet tool restore
+dotnet paket restore
+build run
+build clean
+git restore .
+rm -rf src/
+scp "C:\Users\JoshuaVarga\git\rawmap-cloud-V2.0.0.zip" vitaa@172.31.199.218:/home/vitaa/
+scp "C:/Users/JoshuaVarga/git/rawmap-cloud-V2.0.0.zip" vitaa@172.31.199.218:/home/vitaa/
+docker load --input ../webbler-mosquitto-0.5.tar
+docker compose up -d
+build run
+dotnet tool restore
+build
+cd `git/Reference Designs/reactive-framework/`
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+git checkout CDTAPP-5-peripheral-communication
+git rebase main
+cd `git/Reference Designs/reactive-framework/`
+build run
+git log
+git push -f
+git add .
+git commit --amend
+git push -f
+build
+build compileandpublish
+build run
+build watch
+build run
+git reflog
+git checkout f20b3dc
+build run
+git diff HEAD
+git diff f3366c
+git diff f43366c
+git checkout HEAD
+git checkout CDTAPP-5-peripheral-communication
+build run
+git checkout f20b3dc
+git restore .
+git checkout f20b3dc
+git diff f43366c >> out.txt
+git diff f43366c > out.txt
+git diff f43366c
+git checkout CDTAPP-5-peripheral-communication
+cd `git/Reference Designs/reactive-framework/`
+build run
+git checkout f43366c
+build run
+git checkout f20b3dc
+git diff f43366c > out.txt
+git diff f43366c | save out.txt
+nvim out.txt
+rm -rf out.txt
+git checkout CDTAPP-5-peripheral-communication
+build run
+build run
+git add .
+git commit --amend
+dotnet -v
+dotnet --list-sdks
+clear
+node -v
+nvm
+nvm list
+clear
+nvm use 18
+clear
+dotnet --list-sdks
+node -v
+docker -v
+git -v
+dotnet tool restore
+build
+build run
+dotnet --list-sdks
+nvim .
+build run
+cd ../
+docker load --input webbler-mosquitto-0.5.tar
+cd rawmap-cloud\
+docker compose up -d
+cd git/ViTAA/rawmap-cloud/
+explorer .
+winget update --all
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+git submodule update --init --recursive
+build solution
+explorer .
+winget search obsidian
+winget install obsidian.obsidian
+cd ~
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git reset --hard upstream/master
+build
+cd git/ViTAA/rawmap-cloud/
+build run
+git restore .
+git resetore .
+git restore .
+git checkout VRM-4463..4465-buncha-stuff
+git checkout -b VRM-4463-4464-4465-buncha-stuff
+git add .
+git commit -m "VRM-4463 allow research instututions to use stent planning"
+dotnet fantomas src/RAWMap.Client/Study/AnalysisForm/AnalysisFormView.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Study/AnalysisForm/AnalysisFormView.fs
+git add .
+git commit -m "VRM-4463 allow research instututions to use stent planning"
+git add .
+git commit -m "VRM-4464 remove +/- from landmark names"
+git add .
+git commit -m "VRM-4465 expose intermediate analysis files to physicians"
+dotnet fantomas src/RAWMap.Client/Study/AnalysisForm/AnalysisFormView.fs
+git add .
+git commit -m "VRM-4465 expose intermediate analysis files to physicians"
+git push -f
+git push --set-upstream origin VRM-4463-4464-4465-buncha-stuff
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4463-4464-4465-buncha-stuff
+git rebase main
+git rebase master
+git push -f
+git checkout master
+git stash
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4463-4464-4465-buncha-stuff
+git rebase master
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4463-4464-4465-buncha-stuff
+git rebase master
+git push -f
+git stash
+git checkout master
+git stash
+git checkout -b VRM-4469-diameter-lines
+git add .
+git commit -m "amend me"
+git checkout VRM-4463-4464-4465-buncha-stuff
+git restore .
+git add .
+git commit -m "VRM-4465 only show analysis results"
+dotnet fantomas src/RAWMap.Client/Study/AnalysisForm/AnalysisFormView.fs
+git add .
+git commit -m "VRM-4465 only show analysis results"
+git push -f
+cd git/ViTAA/rawmap-cloud/
+git checkout VRM-4469-diameter-lines
+git add .
+git log
+git commit --amend
+git fetch --all
+git checkout VRM-4209-stent-custom-screenshots
+build run
+git checkout VRM-4469-diameter-lines
+git fetch --all
+git checkout VRM-4209-stent-custom-screenshots
+git pull
+git checkout VRM-4469-diameter-lines
+nvim .
+nvm use 22
+nvm list
+nvm use 24
+nvim .
+build run
+explorer .
+npx prettier --write "C:\Users\JoshuaVarga\git\ViTAA\rawmap-cloud\src\RAWMap.Client\Visualization\js\DiameterLines.js"
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/js/DiameterLines.js"
+y
+build
+git add .
+git log
+git commit --amend
+dotnet fantomas src/RAWMap.Client/Visualization/DiameterCalculator/DiameterCalculatorBindings.fs
+dotnet fantomas src/RAWMap.Client/Visualization/Common/CommonBindings.fs needs formatting
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationBindings.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/Common/CommonTypes.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit --amend
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4469-diameter-lines
+git rebase master
+build run
+git reflog
+git reset --hard 49499e0d
+git add .
+git commit -m "VRM-4469 change min -> avg"
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/js/DiameterLines.js"
+git add .
+git commit -m "VRM-4469 cleanup"
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/js/DiameterLines.js"
+cd git/ViTAA/rawmap-cloud/
+cd git/ViTAA/rawmap-cloud/
+build run
+git add .
+git commit -m "VRM-4469 mostly working"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4469-diameter-lines
+git rebase master
+build
+cd git/ViTAA/rawmap-cloud/
+build run
+build
+git stash
+git stash pop
+build run
+build
+build run
+git reflog
+git log
+nvm use 18
+npx prettier --write "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Client/Visualization/js/DiameterLines.js"
+build
+git stash
+git checkout master
+nvm use 24
+build run
+git checkout VRM-4469-diameter-lines
+git restore .
+git checkout VRM-4469-diameter-lines
+git stash pop
+git push -f
+git push --set-upstream origin VRM-4469-diameter-lines
+git stash
+git checkout master
+git checkout VRM-4469-diameter-lines
+git restore .
+nvm use 18
+build
+git stash pop
+git log
+git add .
+git commit -m "VRM-4469 screenshots mostly working"
+git fetch --all
+git checkout VRM-4467-Straightened-CPR-Measurements
+git checkout VRM-4469-diameter-lines
+git add .
+git commit -m "VRM-4469 this is a useful commit mesasge"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4469 this is a useful commit mesasge"
+git checkout master
+git checkout VRM-4469-diameter-lines
+git push -f
+git fetch --all
+git checkout master
+git restore 
+git restore .
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4469-diameter-lines
+build run
+git restore .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4469-diameter-lines
+git rebase master
+git restore .
+git push -f
+nvim .
+winget update --all
+build run
+cd git/ViTAA/rawmap-cloud/
+nvm use 24
+git restore .
+git add .
+git commit -m "VRM-4469 un-comment accidental comment"
+git push -f
+git restore .
+git checkout master
+git checkout VRM-4469-diameter-lines
+git push -f
+git checkout master
+git fetch --all
+git reset --hard upstream/master
+git checkout -b VRM-4475-disable-tools-during-screenshot
+git add .
+git commit -m "VRM-4475 disable tools during a screenshot"
+git push -f
+git push --set-upstream origin VRM-4475-disable-tools-during-screenshot
+git fetch --all
+git checkout VRM-4444-stent-measurement-fixes
+git checkout master
+git checkout VRM-4444-stent-measurement-fixes
+winget update --all
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+nvim .
+cd git/ViTAA/rawmap-cloud/
+build run
+git checkout VRM-4478-fix-measurement-select-crash
+git checkout -b VRM-4478-fix-measurement-select-crash
+git add .
+git commit -m "VRM-4478 fix crash when selecting a measurement before dicoms load"
+git push -f
+git push --set-upstream origin VRM-4478-fix-measurement-select-crash
+git checkout master
+git checkout VRM-4478-fix-measurement-select-crash
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout -b VRM-4477-label-updates
+cd git/ViTAA/rawmap-cloud/
+git add .
+git commit -m "VRM-4477 update labels"
+git push -f
+git push --set-upstream origin VRM-4477-label-updates
+git fetch --all
+git checkout -b VRM-4472-stent-report-improvements
+git add .
+git commit -m "VRM-4482 add dark mode to report download tables"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+cd ../
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+dotnet fantomas src/RAWMap.Client/Study/CustomStentReport/CustomStentReportView.fs
+git add .
+git commit -m "VRM-4482 add dark mode to report download tables"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4478-fix-measurement-select-crash
+git rebase master
+git push -f
+git checkout VRM-4472-stent-report-improvements
+git add .
+git commit -m "VRM-4484 add spinner to download report modal"
+dotnet fantomas src/RAWMap.Client/Study/CustomStentReport/ReportPrompt/ReportPromptView.fs
+git add .
+git commit -m "VRM-4484 add spinner to download report modal"
+git add .
+git commit -m "VRM-4485 remove hover effects when selecting a viewport"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4485 remove hover effects when selecting a viewport"
+git push -f
+git push --set-upstream origin VRM-4472-stent-report-improvements
+git rebase -i HEAD~4
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4477-update-labels
+git checkout VRM-4477-label-updates
+git rebase master
+git push -f
+git checkout VRM-4472-stent-report-improvements
+git rebase master
+git push -f
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout 0.6.0-freerun
+git submodule update --init --recursive
+build solution
+build run
+nvim .
+build run
+cd git/NIMBLE/waeve/
+build test
+git checkout 0.4.0
+git tag -l
+git checkout 0.4.0
+git restore .
+git checkout 0.4.0
+build test
+git checkout 0.6.0-freerun
+build test
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4472-stent-report-improvements
+git rebase master
+git push -f
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4472-stent-report-improvements
+git rebase master
+git push -f
+git checkout VRM-4477-label-updates
+git rebase master
+git push -f
+cd git/ViTAA/rawmap-cloud/
+nvim .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4472-stent-report-improvements
+git rebase master
+git push -f
+git checout master
+git checkout master
+git checkout -b VRM-4400-fix-centerline-points-dpr
+git add .
+git commit -m "VRM-4400 fix centerline point interaction at different dpr"
+git push -f
+git push --set-upstream origin VRM-4400-fix-centerline-points-dpr
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+git stash
+git checkout VRM-4477-label-updates
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4477-label-updates
+git rebase master
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4477-label-updates
+git rebase master
+git push -f
+git checkout master
+git stash pop
+git stash
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4400-fix-centerline-points-dpr
+git rebase master
+git push -f
+cd git/NIMBLE/waeve/
+git checkout 0.4.0
+git checkout 0.6.0-freerun
+git restore .
+git checkout 0.6.0-freerun
+cd git/NIMBLE/waeve/
+build test
+explorer .
+git checkout 0.2.1
+git restore .
+git checkout 0.2.1
+git checkout 0.3.0
+build test
+build solution
+ls
+powershell ./build.ps1 solution
+powershell ./build.ps1 UnitTest
+build run
+git fetch --all
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4400-fix-centerline-points-dpr
+git rebase master
+git push -f
+git checkout master
+git push -f
+git checkout -b VRM-4490-save-revision-on-navigation
+nvim .
+build run
+git add .
+git commit -m "amend me"
+cd ../
+dotnet fantomas src/RAWMap.Client/Types.fs
+dotnet fantomas src/RAWMap.Client/State.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "amend me"
+git log
+git commit --amend
+git log
+git commit --amend
+git push -f
+git push --set-upstream origin VRM-4490-save-revision-on-navigation
+git restore .
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4490-save-revision-on-navigation
+git reset --hard upstream/master
+git reset --hard upstream/VRM-4490-save-revision-on-navigation
+git reset --hard origin/VRM-4490-save-revision-on-navigation
+git rebase master
+explorer .
+git resetore --source=HEAD~1 yarn.lock
+git restore --source=HEAD~1 yarn.lock
+git commit --amend
+git push -f
+build run
+git add .
+git commit --amend
+git push -f
+cd git/ViTAA/rawmap-cloud/
+build run
+git reflog
+git checkout 075b5861
+cd git/ViTAA/rawmap-cloud/
+build run
+explorer .
+build
+dotnet --list-sdks
+git checkout VRM-4490-save-revision-on-navigation
+git restore .
+git checkout VRM-4490-save-revision-on-navigation
+git restore .
+git checkout VRM-4490-save-revision-on-navigation
+git stash
+git checkout VRM-4490-save-revision-on-navigation
+git add .
+git commit --amend
+../
+dotnet fantomas src/RAWMap.Client/Study/StudyState.fs
+git add .
+git commit --amend
+git push -f
+nvim .
+build
+explorer .
+git checkout master
+dotnet --list-sdks
+build run
+git reflog
+git checkout 075b5861
+git restore .
+git checkout 075b5861
+build run
+dotnet paket restore
+nuget package restore
+dotnet nuget package restore
+winget search papercut
+winget install ChangemakerStudios.Papercut-SMTP
+build
+git restore .
+git reflog
+git checkout VRM-4490-save-revision-on-navigation
+git reflog
+git checkout 075b5861
+git restore .
+git checkout 075b5861
+build run
+gitreflog
+git reflog
+git checkout a71e67b3
+build run
+git checkout 075b5861
+git checkout VRM-4490-save-revision-on-navigation
+git restore .
+git checkout VRM-4490-save-revision-on-navigation
+build run
+build
+build run
+build
+git add .
+git commit -m "VRM-4490 fix changes I somehow lost"
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationTypes.fs
+dotnet fantomas src/RAWMap.Client/State.fs
+git add .
+git commit -m "VRM-4490 fix changes I somehow lost"
+git push -f
+git fetch --all
+build run
+build run\
+git reflog
+git checkout 075b5861
+git restore .
+git checkout 075b5861
+git checkout VRM-4490-save-revision-on-navigation
+build run
+git chekout master
+git checkout master
+build
+build run
+git checkout VRM-4490-save-revision-on-navigation
+git restore .
+git checkout VRM-4490-save-revision-on-navigation
+git checkout -b VRM-4497-patient-info-dropdown
+git add .
+git commit -m "VRM-4497 add patient info dropdown"
+cd ../
+dotnet fantomas src/RAWMap.Client/Study/StudyState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4497 add patient info dropdown"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4497 add patient info dropdown"
+git rebase -i HEAD~2
+git rebase -i HEAD~4
+git fetch --akk
+git fetch --all
+git checkout master
+git reset --hard upstream/main
+git reset --hard upstream/master
+git checkout VRM-4497-patient-info-dropdown
+git rebase master
+git push -f
+git push --set-upstream origin VRM-4497-patient-info-dropdown
+git add .
+git commit --amend
+git push -f
+build run
+git checkout master
+git checkout -b VRM-4491-restructure-report-page
+git commit -m "VRM-4491 restructure report page"
+dotnet fantomas src/RAWMap.Client/Study/CustomStentReport/CustomStentReportView.fs
+dotnet fantomas src/RAWMap.Client/Visualization/Screenshot/ScreenshotView.fs
+git commit -m "VRM-4491 restructure report page"
+git push -f
+git push --set-upstream origin VRM-4491-restructure-report-page
+git checkout master
+git restore .
+git fetch --all
+git reset --hard upstream/master
+git checkout VRM-4490-save-revision-on-navigation
+git rebase master
+git add .
+git commit -m "VRM-4490 revert smtp user and pass"
+git push -f
+git checkout VRM-4497-patient-info-dropdown
+git rebase master
+git push -f
+git checkout VRM-4491-restructure-report-page
+git rebase master
+git push -f
+git checkout master
+git push -f
+explorer .
+git update-index --skip-worktree "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Server/config/appsettings.json"
+git update-index --no-skip-worktree "C:/Users/JoshuaVarga/git/ViTAA/rawmap-cloud/src/RAWMap.Server/config/appsettings.json"
+git update-index --skip-worktree src/RAWMap.Server/config/appsettings.json
+build run
+git fetch --all
+git checkout master
+git restore .
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4491-restructure-report-page
+git rebase master
+git push -f
+build run
+git checkout master
+winget search occt
+winget install occt
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git stash
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4490-save-revision-on-navigation
+git rebase master
+git restore .
+git rebase master
+git resbase --abort
+git rebase --abort
+git rebase master
+git rebase --abort
+git rebase master
+git rebase --abort
+git update-index --no-skip-worktree src/RAWMap.Server/config/appsettings.json
+git rebase --abort
+git rebase master
+git push -f
+git checkout master
+git update-index --skip-worktree src/RAWMap.Server/config/appsettings.json
+winget instanll occt
+git stash pop
+git checkout -b VRM-4506-ensure-viewport-screenshot-ready
+git add .
+git commit -m "amend me"
+git checkout VRM-4490-save-revision-on-navigation
+build run
+git add .
+git commit -m "VRM-4490 fix one-shots and allow logout on double press"
+dotnet fantomas src/RAWMap.Client/Auth/AuthTypes.fs
+dotnet fantomas src/RAWMap.Client/Auth/AuthState.fs
+dotnet fantomas src/RAWMap.Client/State.fs
+dotnet fantomas src/RAWMap.Client/Types.fs
+git add .
+git commit -m "VRM-4490 fix one-shots and allow logout on double press"
+git push -f
+git fetch --all
+git checkout VRM-4506-ensure-viewport-screenshot-ready
+git restore .
+git checkout VRM-4506-ensure-viewport-screenshot-ready
+git add .
+git commit --amend
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4490-save-revision-on-navigation
+git rebase master
+git update-index --no-skip-worktree src/RAWMap.Server/config/appsettings.json
+git rebase --abort
+git rebase master
+git push -f
+git checkout VRM-4506-ensure-viewport-screenshot-ready
+git update-index --skip-worktree src/RAWMap.Server/config/appsettings.json
+git checkout VRM-4490-save-revision-on-navigation
+git update-index --no-skip-worktree src/RAWMap.Server/config/appsettings.json
+git fetch --all
+git checkout master
+git restore .
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4490-save-revision-on-navigation
+git rebase master
+git push -f
+nvim .
+winget update --all
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git push -f
+git checkout VRM-4506-ensure-viewport-screenshot-ready
+which git
+cd git/ViTAA/rawmap-cloud/
+winget install -e --id rsteube.Carapace
+config nu
+$nu.config-path
+cd C:\Users\JoshuaVarga\.config\nushell\config.nu
+cd C:\Users\JoshuaVarga\.config\nushell
+nvim .
+example _carapace nushell
+git _carapace nushell
+cd C:\Users\JoshuaVarga\.config\nushell
+cd git/ViTAA/rawmap-cloud/
+ls
+cd C:\Users\JoshuaVarga\.config\nushell
+nvim .
+cd git/ViTAA/rawmap-cloud/
+cd C:\Users\JoshuaVarga\.config\nushell
+nvim .
+config nu
+ls
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4506-ensure-viewport-screenshot-ready
+git rebase master
+cd git/ViTAA/rawmap-cloud/
+build run
+git update-index --skip-worktree src/RAWMap.Server/config/appsettings.json
+build
+git log
+git add .
+git commit --amend
+cd git/ViTAA/rawmap-cloud/
+git add .
+git commit --amend
+git push
+nvim .
+build run
+git reflog
+git checkout 5040d4a33d4cfb42a2c221469f0433bde1ffce8f
+git restore .
+git checkout 5040d4a33d4cfb42a2c221469f0433bde1ffce8f
+git checkout VRM-4506-ensure-viewport-screenshot-ready 
+git rebase -i HEAD~2
+git add .
+git commit -m "VRM-4506 maybe fix mesh"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git add .
+git commit -m "VRM-4506 maybe fix mesh"
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4506-ensure-viewport-screenshot-ready 
+git rebase master
+git push -f
+git checkout VRM-4497-patient-info-dropdown
+git rebase master
+git rebase --continue
+git push -f
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout master
+git checkout maain
+git checkout main
+git restore .
+git checkout main
+git checkout 0.6.0-freerun 
+git remote add pb git@gitlab.prolucid.ca:patrick.bright/rawmap-cloud.git
+git fetch --all
+git checkout VRM-4497-patient-info-dropdown
+git add .
+git commit -m "VRM-4497 rebase fixes"
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4497-patient-info-dropdown
+git rebase master
+build run
+build
+git push -f
+git fetch --all
+git checkout VRM-4506-ensure-viewport-screenshot-ready 
+git rebase master
+git push -f
+git checkout VRM-4497-patient-info-dropdown
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4506-ensure-viewport-screenshot-ready 
+git rebase master
+git add .
+git commit -m "VRM-4506 revert yarn.lock"
+git push -f
+git restore .
+git rebase -i HEAD~2
+git push -f
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4506-ensure-viewport-screenshot-ready 
+git rebase master
+git push -f
+git checkout cs/VRM-4494-sandbox-centerline 
+winget update --all
+config
+/s
+ls
+cd .config
+ls
+chazmoi status
+chezmoi status
+chezmoi apply
+chezmoi status
+ls -la
+cd chezmoi
+ls
+cd ../
+explorer .
+cd git/NIMBLE/waeve/
+git checkout 0.3.0
+chezmoi apply -v
+chezmoi diff
+chezmoi unmanaged
+cd .config
+ls
+cd chezmoi
+ls
+explorer .
+chezmoi doctor
+cd ~/.local/share/chezmoi/
+ls
+find . -type f | grep -E '\.bak|~$'
+powershell find . -type f | grep -E '\.bak|~$'
+ls **/* 
+| where type == "file" 
+| where name =~ '\.bak$|~$'
+ls
+ls -la
+chezmoi doctor
+~/.local/share/chezmoi
+cd ~/.local/share/chezmoi
+ls **/* | where type == "file" | where name =~ '\.bak$|~$'
+cd ~
+ls **/* | where type == "file" | where name =~ '\.bak$|~$'
+cd ~
+ls **/* 
+| where type == "file" 
+| where name =~ '\.bak$|\.chezmoi\..+|~$'
+| where name !~ 'Application Data'
+chezmoi config dump | find "backup"
+chezmoi dump-config | find backup
+config nu
+cd .config/nushell/
+nvim .
+cd ../
+ls
+cd nvim
+ls
+cd lua/config/
+ls
+nvim keymaps.lua
+config nu
+cd .config/nushell/
+nvim .
+config nu
+cd git/NIMBLE/waeve/
+nvim
+cd .config/nvim/
+nvim
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+cd git/ViTAA/rawmap-cloud/
+build run
+git restore .
+build run
+cd git/ViTAA/rawmap-cloud/
+git checkout -b VRM-4524-revision-upload-fix
+git add .
+git commit -m "VRM-4524 upload first and then add metadata to db"
+cd git/ViTAA/rawmap-cloud/
+git push -f
+git push --set-upstream origin VRM-4524-revision-upload-fix
+git checkout master
+git restore .
+git checkout master
+winget update --all
+cd git/ViTAA/rawmap-cloud/
+git restore .
+nvim .
+cd git/ViTAA/rawmap-cloud/
+nvim
+nvim .
+git checkout VRM-4524-revision-upload-fix 
+build run
+nvim .
+ls
+git reset --hard upstream/master
+exit
+git checkout jr/VRM-4307-edit-stent-measurements
+git checkout master
+git checkout ak/VRM-4525-4526-CSP-and-brush-fixes 
+git checkout master
+nvim .
+git fetch --all
+git checkout ss/VRM-4523-Fix-label-overlap-in-automate-screenshots 
+git checkout master
+git reset --hard upstream/master
+git checkout da729f7d3858da32179a9ae8d832017d3815033e
+git checkout ss/VRM-4523-Fix-label-overlap-in-automate-screenshots 
+winget update --all
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout ak/VRM-4528-BrushOutline 
+git restore .
+git checkout ak/VRM-4528-BrushOutline 
+fantomas --version
+fantomas .
+git restore .
+git fetch --all
+git restore .
+git checkout master
+git reset --hard upstream/master
+build run
+build
+nvim .
+build
+git checkout -b VRM-4530-update-diameter-algo
+git add .
+git commit -m "VRM-4530 update diameter algo from ViTAA to remove NaNs"
+git push -f
+git push --set-upstream origin VRM-4530-update-diameter-algo
+git checkout ak/VRM-4528-BrushOutline 
+git fetch --all
+git checkout VRM-4530-update-diameter-algo 
+git checkout master
+git reset --hard upstream/master
+git checkout master
+git checkout VRM-4530-update-diameter-algo 
+git rebase master
+git push -f
+git fetch --all
+git checkout master
+git restore .
+git checkout master
+git reset --hard upstream/master
+git checkout VRM-4530-update-diameter-algo 
+git rebase master
+git push -f
+git restore .
+git checkout master
+git restore .
+git checkout master
+git fetch --all
+git checkout ak/VRM-4531-CrosshairFix 
+winget update --all
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git restore .
+cd git/ViTAA/rawmap-cloud/
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+build run
+nvim .
+cd ../../
+cd `Reference Designs\reactive-framework\`
+ls
+git fetch --all
+git checkout master
+git checkout main
+git log
+git add .
+git commit --amend
+git checkout main
+git reset --hard upstream/main
+git checkout CDTAPP-5-peripheral-communication
+git rebase master
+git rebase main
+nvim .
+nvim
+build run
+ls
+cd ../
+nvim .
+cd .config/nvim/
+ls
+nvim .
+clear
+winget search dotnet
+winget install Microsoft.DotNet.SDK.10
+dotnet --list-sdks
+nvim .
+cd .config/nvim/
+nvim .
+cd ../
+cd `git/Reference Designs/reactive-framework/`
+cd git/Reference Designs/reactive-framework/
+cd "git/Reference Designs/reactive-framework/"
+cd git
+ls
+nvim
+cd .config/nvim/
+nvim .
+cd "git/Reference Designs/reactive-framework/"
+build run
+nvim .
+git add .
+git commit -m "amend me"
+git fetch --all
+git checkout main
+git restore .
+git checkout main
+git rebase -i 19c7a516
+git rebase --abort
+build run
+git reflog
+git log
+git checkout -b CDTAPP-5-bak
+git checkout -b CDTAPP-5-peripheral-communication 
+git checkout CDTAPP-5-peripheral-communication 
+git merge-base HEAD origin/main
+git reset --mixed 2253eef8aa6780e6e3f048124ab0d9c9926775cc
+git reflog
+git reset --hard b46d284
+git checkout main
+git push -f
+git checkout CDTAPP-5-peripheral-communication 
+git pull
+git reset --mixed 2253eef8aa6780e6e3f048124ab0d9c9926775cc
+git reset --hard b46d284
+git reset --mixed 2253eef8aa6780e6e3f048124ab0d9c9926775cc
+git reset --hard b46d284
+git merge-base HEAD updtream/main
+git merge-base HEAD upstream/main
+git reflog
+git log
+git merge-base HEAD upstream/main
+git reset --mixed 296864bc7dad631bfe7912ea5afa819e4c4c3c3d
+git reset --hard b46d284
+git reset --mixed 19c7a516
+git reset --hard b46d284
+git reset --mixed 19c7a516
+git reset --hard b46d284
+git reset --mixed 3e6bf10c
+nvim .
+git push -f
+dotnet list package --outdated
+build run
+cd src
+dotnet list package --outdated
+dotnet tool install --global dotnet-outdated-tool
+dotnet outdated --upgrade
+winget update --all
+cd git/Reference Designs/reactive-framework/
+cd "git/Reference Designs/reactive-framework/"
+nvim .
+cd "git/Reference Designs/reactive-framework/"
+build run
+nvim .
+build run
+winget update --all
+cd "git/Reference Designs/reactive-framework/"
+nvim .
+build run
+git add .
+git log
+git add .
+git commit -m "CDTAPP-5 add demo driver"
+git add .
+git commit --amend
+dotnet new list
+cd src
+dotnet new nunit -n RFW.Client.MidiDriver.Tests
+nvim .
+cd "git/Reference Designs/reactive-framework/"
+build run
+git push -f
+build run
+winget search drawio
+winget install drawio
+winget install draw.io
+winget install JGraph.Draw
+nvim .
+cd ../
+ls
+cd ../
+ls
+cd webbler
+ls
+git clone git@gitlab.prolucid.ca:joshua.varga/webbler.git
+git checkout webbler 1.5
+git fetch --all
+cd webbler\
+git fetch --all
+git remote add upstream git@gitlab.prolucid.ca:reference-architectures/webbler.git
+git fetch --all
+git checkout webbler 1.5
+git checkout webbler-1.5
+git checkout WEB-174-serverside-presigned-urls
+git rebase webbler-1.5
+cd ../
+cd Webbler\webbler\
+ls
+build
+nvim .
+dotnet tool restore
+npm install --global yarn
+build
+ls
+cd git\Webbler\webbler\
+build run
+nvm use 18
+build run
+build
+npm install --global yarn
+build
+nvim .
+build webdocker
+nvim .
+nvm use 24
+winget update --all
+winget install sxyazi.yazi
+# Install the optional dependencies (recommended):
+winget install Gyan.FFmpeg 7zip.7zip jqlang.jq oschwartz10612.Poppler sharkdp.fd BurntSushi.ripgrep.MSVC junegunn.fzf ajeetdsouza.zoxide ImageMagick.ImageMagic
+yazi
+cd ../
+build
+nvm use 18
+build
+yazi
+cd git\Webbler\webbler\
+build
+build webdocker
+docker compose up -d
+build run
+build sso
+build ssologin
+winget search aws
+winget install amazon.awscli
+build ssologin
+cd git\Webbler\webbler\
+build ssologin
+winget update --all
+cd git\Webbler\webbler\
+build run
+nvim .
+nvm use 18
+build run
+build ssologin
+winget update --all
+winget search blender
+yazi
+cd Documents\
+ls
+cd bigfiles\
+ls
+fsutil file createnew big.bin 268435456
+ls
+cp big.bin
+cp big.bin ./
+cp big.bin big(1).bin
+cp big.bin big(2).bin
+cp big.bin big(3).bin
+cp big.bin big(4).bin
+cp big.bin big(5).bin
+cp big.bin big(6).bin
+cp big.bin big(7).bin
+cd ../
+ls
+cd bigfiles
+ls
+cp ./ ./
+cp --recursive ./ ./
+yazi
+winget update --all
+cd git/reference-designs/reactive-framework/
+nvm use 24
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+git checkout CDTAPP-5-peripheral-communication 
+git rebase main
+git rebase --continue
+git add .
+git rebase --continue
+cd git/reference-designs/reactive-framework/
+build run
+build
+build compileandpublish
+nvim .
+build run
+build run winui
+build compileandpublish wpf
+build compileandpublish winui
+build run winui
+build run wpf
+build compileandpublish winui
+cd git/reference-designs/reactive-framework/
+build compileandpublish wpf
+build compileandpublish winui
+buil run winui
+build run winui
+build compileandpublish winui
+yazi
+build run winui
+winget list | findstr WindowsAppRuntime
+Get-AppxPackage Microsoft.WindowsAppRuntime* | <\n>  Select Name, Architecture, Version | Format-Table -Auto
+powershell Get-AppxPackage Microsoft.WindowsAppRuntime* | <\n>  Select Name, Architecture, Version | Format-Table -Auto
+cd git/reference-designs/reactive-framework/
+$env.PROCESSOR_ARCHITECTURE
+^pwsh -NoProfile -Command 'Get-AppxPackage Microsoft.WindowsAppRuntime* | Select Name, Architecture, Version | Format-Table -Auto'
+pwsh -NoProfile -Command 'Get-AppxPackage Microsoft.WindowsAppRuntime* | Select Name, Architecture, Version | Format-Table -Auto'
+^ps -NoProfile -Command 'Get-AppxPackage Microsoft.WindowsAppRuntime* | Select Name, Architecture, Version | Format-Table -Auto'
+^powershell -NoProfile -Command 'Get-AppxPackage Microsoft.WindowsAppRuntime* | Select Name, Architecture, Version | Format-Table -Auto'
+build compileandpublish winui
+explorer .
+dotnet nuget search Microsoft.WindowsAppSDK.Bootstrapper
+build run winui
+build run wpf
+build compileandpublish winui
+build clean
+build UnitTest
+build compileandpublish wpf
+git stash
+git checkout main
+git checkout CDTAPP-5-peripheral-communication 
+git stash pop
+git add .
+git commit -m "CDTAPP-5 rebase fixes and update build scripts"
+cd ../
+ls
+rmdir -rf reactive-framework\
+rm -rf reactive-framework\
+ls
+git clone git@gitlab.prolucid.ca:joshua.varga/reactive-framework.git
+build compileandpublish wpf
+ls
+cd reactive-framework\
+build compileandpublish wpf
+build compileandpublish
+git fetch --all
+git reset --hard upstream/main
+git remote add upstream git@gitlab.prolucid.ca:reference-architectures/reactive-framework.git
+git fetch --all
+git reset --hard upstream/main
+dotnet tool restore
+dotnet restore
+dotnet restore src/RFW.sln
+cd git/reference-designs/reactive-framework/
+winget list | findstr WindowsAppRuntime
+winget install Microsoft.WindowsAppRuntime.1.8
+winget uninstall Microsoft.WindowsAppRuntime.1.8
+winget uninstall --all-versions Microsoft.WindowsAppRuntime.1.8
+winget list | findstr WindowsAppSDK
+winget install Microsoft.WindowsAppRuntime.1.8
+winget list | findstr WindowsAppRuntime
+winget uninstall --all-versions Microsoft.WindowsAppRuntime.1.8
+winget list --id Microsoft.WindowsAppRuntime.1.8
+winget list --id Microsoft.WindowsAppRuntime.1.8 -s winget
+winget list --id Microsoft.WindowsAppRuntime.1.8 -s msstore
+powershell
+winget install --id Microsoft.WindowsAppRuntime.1.8 --accept-package-agreements --accept-source-agreements --force
+winget install --id Microsoft.WindowsAppRuntime.1.8 --repair
+cd git/reference-designs/reactive-framework/
+dotnet outdated --upgrade
+cd src
+dotnet outdated --upgrade
+git checkout CDTAPP-5-peripheral-communication
+git log
+git restore .
+git checkout CDTAPP-5-peripheral-communication
+git log
+git reflog
+git rebase main
+git rebase --continue
+git add .
+git rebase --continue
+nvim .
+cd ../
+cd git/reference-designs/reactive-framework/
+build run
+dotnet outdated --upgrade ./src/
+build run winui
+build compileandpublish winui
+build run winui
+ls
+exploroer .
+explorer .
+dotnet run --project src/RFW.Client.App.Wpf/RFW.Client.App.Wpf.csproj -c Debug
+dotnet run --project src/RFW.Client.App.WinUI/RFW.Client.App.WinUI.csproj -c Debug
+dotnet build --project src/RFW.Client.App.WinUI/RFW.Client.App.WinUI.csproj -c Debug
+dotnet run --project src/RFW.Client.App.WinUI/RFW.Client.App.WinUI.csproj -c Debug
+dotnet run --project src/RFW.Client.App.WinUI/RFW.Client.App.WinUI.csproj -c Debug -r win10-x64
+dotnet run --project src/RFW.Client.App.WinUI/RFW.Client.App.WinUI.csproj -c Debug -r win-x64
+powershell
+dotnet watch --project src/RFW.Client.App.WinUI/RFW.Client.App.WinUI.csproj run -- `<\n>  -c Debug `
+build run winui
+build run
+build compileandpublish
+build run
+git add .
+git commit -m "CDTAPP-5 rebase fixes, update build script, bump package versions"
+git push -f
+build compileandpublish
+winget update --all
+cd git/reference-designs/reactive-framework/
+build compileandpublish
+cd src
+dotnet add package Microsoft.Xaml.Behaviors.WinUI.Managed --version 3.0.1
+cd RFW.Client.UI.WinUI\
+dotnet add package Microsoft.Xaml.Behaviors.WinUI.Managed
+yazi
+cd git/reference-designs/reactive-framework/
+build compileandpublish
+dotnet nuget locals all --clear
+dotnet restore src/RFW.sln
+build compileandpublish
+git add .
+git commit -m "amend me"
+git checkout main
+git checkout CDTAPP-5-peripheral-communication
+git restore .
+git checkout CDTAPP-5-peripheral-communication
+git reset HEAD~1
+nvim .
+git reset HEAD~1
+git add .
+git commit -m "CDTAPP-5 rebase fixes, update build script, add WinUI view(model) for MIDI"
+git diff main
+git diff main...HEAD > diff.patch
+git diff main...HEAD | save diff.patch
+explorer .
+build run
+build compileandpublish
+cd git/reference-designs/reactive-framework/
+build run
+cd git/reference-designs/reactive-framework/
+build run
+build compileandpublish
+build compileandpublish winui
+build run winui
+build run
+build run winui
+build compileandpublish winui
+explorer .
+build run winui
+winget update --all
+cd git/NIMBLE/waeve/
+git fetch --all
+ssh add -l
+echo $SSH_AUTH_SOCK
+ssh -T git@gitlab.com
+cd git/NIMBLE/waeve/
+git fetch --all
+git remote -l
+git remote -v
+git remote add dd git@gitlab.prolucid.ca:david.drake/waeve.git
+git fetch --all
+git checkout dd/Development
+git checkout -b rename-me
+build solution
+git submodule update --init --recursive
+build solution
+build run
+yazi
+build run
+yazi
+git checkout main
+git reset --hard upstream/main
+build run
+build solution
+build run
+git checkout rename-me
+build solution
+build run
+cd git/reference-designs/reactive-framework/
+build run winui
+build compileandpublish winui
+yazi
+cd build-artifacts\output\winui\
+./RFW.Client.App.WinUI.exe
+cd ../../
+cd ../
+build run winui
+yazi
+yazi
+explorer .
+build run winui
+cd .config
+ls
+cd nvim
+ls
+nvim .
+winget seartch psscript
+winget search psscript
+powershell
+nvim .
+winget searsch pwsh
+winget search pwsh
+winget install Microsoft.PowerShell
+build run winui
+build run
+nvim .
+build run
+:yazi
+yazi
+build run
+yazi
+git log
+git add .
+git commit --amend
+dotnet outdated --upgrade ./src/
+git add .
+git commit -m "CDTAPP-5 bump package versions"
+build run
+build compileandpublish winui
+cd build-artifacts\output\winui\
+./RFW.Client.App.WinUI.exe
+cd ../../../
+build compileandpublish winui
+cd build-artifacts\output\winui\
+./RFW.Client.App.WinUI.exe
+build run
+cd ../../../
+build run
+build compileandpublish wpf
+cd build-artifacts\output\wpf\
+./RFW.Client.App.Wpf.exe
+cd ../../../
+build compileandpublish winui
+cd build-artifacts\output\winui\
+./RFW.Client.App.inUIf.exe
+nvim .
+cd build-artifacts\output\winui\
+cd ../
+cd build-artifacts\output\winui\
+./RFW.Client.App.WinUI.exe
+cd ../../../
+git add .
+git commit -m "CDTAPP-5 add serilog console sink to WinUI"
+git push -f
+git add .
+git commit -m "CDTAPP-5 update ci script"
+cd ../../../
+git add .
+git commit -m "CDTAPP-5 update ci script"
+git push -f
+build unittest
+build unittest
+git add .
+git commit -m "CDTAPP-5 increase timeout in a midi driver demo test"
+git push -f
+yazi
+winget install Gyan.FFmpeg 7zip.7zip jqlang.jq oschwartz10612.Poppler sharkdp.fd BurntSushi.ripgrep.MSVC junegunn.fzf ajeetdsouza.zoxide ImageMagick.ImageMagick
+yazi
+ya
+yazi
+ls
+config nu
+yazi
+config nu
+yazi
+y
+file --version
+ls "C:\Program Files\Git\usr\bin\file.exe"
+ls "C:/Program Files/Git/usr/bin/file.exe"
+file --version
+y
+cd %appdata%
+ls
+cd appdata/local
+ls
+winget update --all
+cd git/NIMBLE/waeve/
+y
+build run
+git add .
+git commit -m "NWS-115 add settings service"
+build run
+git add .
+git commit -m "NWS-116 add password visibility toggle"
+y
+build run
+git add .
+git commit -m "NWS-117 add thing name as device id in ui"
+ya
+build run
+git add .
+git commit -m "NWS-118 bold labels and fix spacing"
+git branch -m NWS-115..118-bundled-changes
+git branch -m feedback-improvements
+git push -f
+git push --set-upstream origin feedback-improvements
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+git push -f
+git checkout feedback-improvements
+npx mega-linter-runner -r latest --fix
+git restore .
+build run
+dotnet build
+git checkout main
+git checkout feedback-improvements
+build solution
+build run
+git rebase cloudpushfeature
+git rebase cloudconnectpermissions
+git rebase CloudConnectPermissions
+git fetch --all
+git rebase upstream/CloudConnectPermissions
+git push -f
+build publish
+build publish release
+cd git/NIMBLE/waeve/
+build run
+git add .
+git commit -m "NWS-116 move visibility toggle inside password box"
+git push -f
+winget update --all
+cd git/NIMBLE/waeve/
+build publish release
+y
+./Waeve.App.exe
+build run
+git checkout upstream/CloudConnectPermissions
+build run
+git checkout feedback-improvements
+build run
+git reflog
+git checkout 1e3f024fd6 to 0.3.0
+git checkout 1e3f024fd6
+git checkout d75224f
+build publish release
+git restore .
+build solution
+build run
+git checkout feedback-improvements
+build run
+build publish release
+git add .
+git commit -m "NWS-115 fix logger crash in settings service"
+git push -f
+cd git/NIMBLE/waeve/
+build run
+git checkout -b feedback-improvements-part-2
+git add .
+git commit -m "NWS-120 fix inconsistent labels"
+build run
+git add .
+git commit -m "MISC clean up CloudConnectorService because it was making my diagnostics light up like a christmas tree"
+build solution
+explorer .
+y
+build solution
+dotnet build src/waeve.sln -c Debug -p:Platform=AnyCPU
+dotnet build waeve.sln -c Debug -p:Platform=AnyCPU
+nvim .
+cd ../
+ls
+nvim .
+vsdev nvim .
+ls
+nu vsdev nvim .
+nu vsdev.nu nvim .
+vsdev.nu nvim .
+nu vsdev.nu nvim .
+nvim vsdev.nu 
+nu vsdev.nu nvim .
+nvim vsdev.nu 
+ls
+nu vsdev.nu nvim waeve/.
+ls
+rm vsdev.nu
+cd waeve
+git commit -m "MISC clean up VnaDownSamlperTest because it was making my diagnostics light up like a christmas tree"
+build run
+git checkout feedback-improvements-part
+git checkout feedback-improvements
+git add .
+git commit -m "NWS-115 fix typo and change TODO to NOTE"
+git push -f
+git add .
+git commit --amend
+git push -f
+git checkout feedback-improvements-part-2
+git rebase feedback-improvements
+git checkout feedback-improvements
+git checkout main
+git fetch --all
+git reset --hard upstream/main
+git checkout feedback-improvements
+git rebase main
+git push -f
+git checkout feedback-improvements-part-2
+git rebase feedback-improvements
+build publish release
+git add .
+git commit -m "NWS-121 start TabTip.exe before closing splash screen"
+git push -f
+git push --set-upstream origin feedback-improvements-part-2
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+git checkout feedback-improvements-part-2
+git push -f
+clear
+cd ~
+y
+git log
+cd git/Webbler/webbler/
+build run
+build solution
+dotnet tool restore
+build
+nvm use 18
+dotnet paket restore
+build
+nvim .
+git add .
+git commit -m "amend me"
+dotnet fantomas src/Sample.Client/FileManagement/FileManagementView.fs
+dotnet fantomas src/Sample.Client/FileManagement/FileUploadSelectors/AutoZipFileSelector/AutoZipView.fs
+dotnet fantomas src/Sample.Client/FileManagement/FileUploadSelectors/DragDropFileSelector/DragDropView.fs
+git add .
+git commit -m "amend me"
+git commit -m "amend me" --no-verify
+git checkout webbler-1.5
+git fetch --all
+git reset --hard upstream/webbler-1.5
+build
+git checkout WEB-174-serverside-presigned-urls
+build run
+git add .
+git commit --amend
+build ssologin
+git add .
+git commit --amend
+nvim .
+nvim
+nvim .
+nvm use 24
+cd .config
+ls
+cd vim
+cd nvim
+nvim .
+cd git/NIMBLE/waeve/
+cd git/ViTAA/rawmap-cloud/
+nvim .
+nvim --clean
+y
+cd git/Webbler/webbler/
+build ssologin
+build run
+nvm use 18
+build run
+build
+build ssologin
+git add .
+git commit --amend
+dotnet fantomas src/Sample.Client/View.fs
+git add .
+git commit --amend
+git add .
+git commit --amend
+dotnet fantomas src/Sample.Client/View.fs
+git add .
+git commit --amend --no-verify
+git add .
+git commit --amend --no-verify
+y
+nvim neotest.lua
+nvm use 24
+nvim
+cd .config/nvim/
+nvim .
+nvim .
+y
+dotnet test --list-tests
+build run
+dotnet test --list-tests
+dotnet test src/webbler.sln  --list-tests
+nvim .
+build test
+build unittest
+nvm use 18
+build unittest
+y
+nvim .
+nvm use 24
+y
+nvim .
+y
+nvim .
+explorer .
+nvim .
+nvm use 18
+nvim
+nvim .
+build run
+nvim .
+nvm use 24
+clear
+nvim .
+winget install GitHub.Copilot
+y
+nvim .
+cd .config/nvim/
+nvim .
+y
+nvim .
+build run
+nvm use 18
+build
+cd git/Webbler/webbler/
+nvim .
+nvm use 24
+winget update --all
+y
+copilot login
+cd git/ViTAA/rawmap-cloud/
+nvim .
+y
+nvim .
+winget search treesitter-cli
+winget search tree-sitter-cli
+npm install -g tree-sitter-cli
+npm update tree-sitter-cli
+npm -h
+npm version tree-sitter-cli
+npm version
+npm list tree-sitter-cli
+npm fix tree-sitter-cli
+npm list -g
+npm install -g tree-sitter-cli@0.26.1
+npm install -g tree-sitter-cli@v0.26.1
+y
+nvim .
+build unittest
+nvm use 18
+build unittest
+cd git/Webbler/webbler/
+build unittest
+y
+nvim .
+nvm use 24
+nvim .
+winget update --all
+winget update --all
+y
+nvim .
+git add .
+git commit --amend --no-verify
+git log
+git add .
+git commit --amend
+git push -f
+git fetch --all
+git checkout webbler-1.5
+git reset --hard upstream/webbler-1.5
+git checkout -b WEB-199-flatten-dom
+git cherry-pick 057f53bf663a197e9d71c6f661
+git cherry-pick e7de17d842ec3e057f53bf663a197e9d71c6f661
+git log
+git commit --amend
+git push -f
+git push --set-upstream origin WEB-199-flatten-dom
+y
+build run
+nvm use 18
+build run
+build ssologin
+winget update --all
+cd git/reference-designs/reactive-framework/
+build unittest
+build publish winui
+build compileandpublish winui
+y
+git add .
+git commit -m "CDTAPP-5 use windowsservercore for build stage"
+git push -f
+git add .
+git commit -m "CDTAPP-5 increase timeout in a midi driver demo test more"
+git push -f
+cd git/reference-designs/reactive-framework/
+build compileandpublish winui --skip-clean
+git add .
+git commit -m "CDTAPP-5 add SkipClean flag to build script"
+git push -f
+build compileandpublish winui -SkipClean
+git remote add jk git@gitlab.prolucid.ca:james.kokoska/reactive-framework.git
+git fetch --all
+git checkout jk/media-player-main
+build compileandpublish
+y
+./RFW.Client.App.WPF.exe
+cd ../
+cd winui
+./RFW.Client.App.Winui.exe
+./RFW.Client.App.WinUI.exe
+ls
+cd x64
+./RFW.Client.App.WinUI.exe
+ls -la
+y
+./RFW.Client.App.WinUI.exe
+cd ../
+cd ../../
+git checkout CDTAPP-5-peripheral-communication
+build compileandpublish winui
+cd build-artifacts\output\winui\
+ls
+./RFW.Client.App.WinUI.exe
+cd ../../../../
+cd reactive-framework\
+git checkout jk/media-player-main
+build compileandpublish
+cd build-artifacts\output\wpf
+nvim .
+nvm use 24
+git restore .
+./RFW.Client.App.wpf.exe
+winget update --all
+cd git/reference-designs/reactive-framework/
+git restore .
+nvim .
+cd ../
+cd Webbler\webbler\
+git checkout webbler-1.5
+git fetch --all
+npm search e493c830a8d40448
+npm view e493c830a8d40448
+npm view web-streams-polyfill
+nvim .
+cd Webbler\webbler\
+cd git/Webbler/webbler/
+docker ps
+docker -h
+docker stop
+docker stop --help
+docker stop webbler-sample-db 
+docker stop webbler-sample-mosquitto 
+build
+nvm use 18
+build
+build runfull
+docker -h
+docker rename webbler-sample-db webbler-sample-db-old
+docker rm webbler-sample-mosquitto 
+docker rm webbler-sample-smtp 
+build runfull
+docker ps
+docker -h
+docker attach webbler-sample-nginx 
+docker logs webbler-sample-nginx 
+docker -h
+docker restart webbler-sample-web 
+docker stop webbler-sample-web webbler-sample-db 
+docker start webbler-sample-db
+docker start webbler-sample-web
+docker ps
+docker logs webbler-sample-db
+docker logs webbler-sample-web
+docker rm webbler-sample-web
+docker stop webbler-sample-web
+docker rm webbler-sample-web
+build ssologin
+build runfull
+docker ps
+docker logs webbler-sample-web
+nvim .
+cd ~
+cd .aws
+ls
+cd sso
+ls
+cd cache
+ls
+cd ../../
+y
+cd ~/git/Webbler/webbler/
+docker stop webbler-sample-web webbler-sample-db webbler-sample-mosquitto webbler-sample-nginx webbler-sample-smtp 
+build ssologin
+build runfull
+docker ps
+docker logs webbler-sample-db
+docker logs webbler-sample-web
+docker stop webbler-sample-web
+docker rm webbler-sample-web
+build runfull
+docker ps
+docker logs webbler-sample-web
+docker stop webbler-sample-web
+docker rm webbler-sample-web
+build runfull
+docker logs webbler-sample-web
+docker stop webbler-sample-web
+docker rm webbler-sample-web
+build runfull
+docker ps
+docker logs webbler-sample-web
+docker logs webbler-sample-nginx
+docker restart webbler-sample-nginx
+docker logs webbler-sample-nginx
+docker stop webbler-sample-web
+docker rm webbler-sample-web
+build runfull
+docker ps
+docker logs webbler-sample-db
+docker logs webbler-sample-web
+git checkout -b WEB-208-remove-access-keys-and-fix-runfull
+git commit -m "WEB-208 remove access keys from appsettings.json and fix RunFull"
+git push -f
+git push --set-upstream origin WEB-208-remove-access-keys-and-fix-runfull
+winget update --all
+cd git/NIMBLE/waeve/
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+nvim .
+nvm use 24
+build publish
+build publish release
+nvim .
+build publish release
+winget update --all
+cd git/NIMBLE/waeve/
+git checkout NWS-122-fatal-error-workaround
+git checkout -b NWS-122-fatal-error-workaround
+git add .
+git push -f
+git push --set-upstream origin NWS-122-fatal-error-workaround
+git add .
+git commit -m "NWS-122 attempt at working around fatal error fromKtNA driver"
+git push -f
+cd git/ViTAA/rawmap-cloud/
+git checkout master
+git restore .
+docker ps
+docker stop webbler-sample-db webbler-sample-mosquitto webbler-sample-nginx webbler-sample-smtp webbler-sample-web 
+docker -h
+cd git/ViTAA/rawmap-cloud/
+docker ps
+docker ps -h
+docker ps -a
+docker start rawmap-db rawmap-mosquitto
+git fetch --all
+git remote add ml git@gitlab.prolucid.ca:Mina.Latif.ViTAA/rawmap-cloud.git
+git fetch --all
+git checkout ml/VRM-875
+build run
+nvm use 18
+dotnet paket restore
+dotnet tool restore
+build
+git checkout ml/VRM-857
+git remote add ms git@gitlab.prolucid.ca:Mostafa.Sharifzadeh.ViTAA/rawmap-cloud.git
+git fetch --all
+git checkout ms/VRM-4455-patient-creation-note-collapsible 
+nvim .
+git restore .
+git diff main...HEAD
+git diff upstream/master...HEAD
+git diff upstream/master...ms/VRM-4455
+git diff upstream/master...ms/VRM-4455-patient-creation-note-collapsible
+git diff master...VRM-4455-patient-creation-note-collapsible
+git fetch --all
+git checkout master
+git reset --hard upstream/master
+git checkout ms/VRM-4455-patient-creation-note-collapsible 
+git diff master...HEAD
+git diff master...HEAD | clip
+git restore .
+git checkout ms/VRM-4552-edit-patient-note 
+git checkout master
+git restore .
+git checkout master
+git restore .
+nvim .
+build run
+git restore .
+nvm use 24
+winget update --all
+nvim .
+cd git/ViTAA/rawmap-cloud/
+build run
+winget update --all
+git restore .
+cd git/ViTAA/rawmap-cloud/
+winget update --all
+git checkout -b VRM-4532-bifurc-wall-fix
+git commit -m "VRM-4532 fix bifurc length showing wall when switching from bifurc diameter"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git commit -m "VRM-4532 fix bifurc length showing wall when switching from bifurc diameter"
+git push -f
+git push --set-upstream origin VRM-4532-bifurc-wall-fix
+build run
+nvm use 18
+build
+ssh-keygen -t ed25519 -f my-rawmap-cloud-key -C "Your Name" -N ""
+ssh-keygen -t ed25519 -f joshua-rawmap-cloud-key -C "Joshua Varga" -N ""
+cd ~/.ssh
+ls
+cd git/ViTAA/rawmap-cloud/
+cd ~/git/ViTAA/rawmap-cloud/
+explorer .
+git fetch --all
+git checkout master
+git restore .
+git reset --hard upstream/master
+git checkout VRM-4532-bifurc-wall-fix 
+git rebase master
+git push -f
+nvm use 24
+git checkout master
+git checkout -b VRM-473-patient-edit-return-to-study
+git commit -m "VRM-473 return to the selected study when closing patient edit modal"
+dotnet fantomas src/RAWMap.Client/Patient/PatientState.fs
+dotnet fantomas src/RAWMap.Client/State.fs
+git commit -m "VRM-473 return to the selected study when closing patient edit modal"
+git push -f
+git push --set-upstream origin VRM-473-patient-edit-return-to-study
+dotnet fantomas src/RAWMap.Client/State.fs
+git commit --amend
+git push -f
+dotnet fantomas src/RAWMap.Client/State.fs
+git commit --amend
+git push -f
+git checkout master
+nvim .
+exit
+cd ~/.config
+ls
+cd nvim
+nvim .
+cd ~/git/ViTAA/rawmap-cloud/
+nvim .
+cd ~/git/ViTAA/rawmap-cloud/
+git checkout -b VRM-4445-reset-camera-fix
+git commit -m "VRM-4445 simply don't reset the camera when resetting the camera"
+git push -f
+git push --set-upstream origin VRM-4445-reset-camera-fix
+exit
+git restore .
+git checkout master
+build run
+git checkout -b VRM-4555-fit-stretched-cpr
+ls
+git add .
+git commit -m "VRM-4555 fit stretched cpr"
+dotnet fantomas src/RAWMap.Client/Visualization/VisualizationState.fs
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4555 fit stretched cpr"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningView.fs
+git add .
+git commit -m "VRM-4555 fit stretched cpr"
+git push -f
+git push --set-upstream origin VRM-4555-fit-stretched-cpr
+git add .
+git commit --amend
+git push -f
+cd ~/git/NIMBLE/waeve/
+git fetch --all
+git checkout main
+git reset --hard upstream/main
+ncim .
+cd git/nimble/waeve
+build publish release 0.5.0.0 0.5.0.0
+nvim .
+y
+explorer .
+build solution release 0.5.0.0 0.5.0.0
+cd ../../
+build solution release 0.5.0.0 0.5.0.0
+build publish release 0.5.0.0 0.5.0.0
+explorer .
+build publish release 0.5.0.0 0.5.0.0
+git checkout VRM-4445-reset-camera-fix 
+ls
+git commit -m "VRM-4445 reset camera to just anatomy bounds if it exists"
+git push -f
+git checkout VRM-4532-bifurc-wall-fix 
+git commit -m "VRM-4532 address mr comments"
+dotnet fantomas src/RAWMap.Client/Visualization/StentPlanning/StentPlanningState.fs
+git push -f
+git checkout master
+git checkout master
+git checkout VRM-4555-fit-stretched-cpr 
+git commit -m "VRM-4555 fit vertically instead and add ability to zoom after fit"
+git push -f
+ls
+git checkout master
+exit
+git fetch --all
+git checkout jr/VRM-4548-fix-permissions 
+winget update --all
+cd ~/.config
+ls
+cd chezmoi
+ls
+chezmoi status
+chezmoi diff
+chezmoi cd
+chezmoi re-add
+chezmoi cd
+cd ~\.local\share\chezmoi
+git push
+git config -h
+git config list
+git log --pretty
+git push
+git push https://github.com/JoshuaVarga/dotfiles.git
+git config user.name "JoshuaVarga"
+git config user.email "joshuasvarga@gmail.com"
+git push
+git push https://github.com/JoshuaVarga/dotfiles.git
+git remote -v
+git push
+cd ~/.ssh
+ls
+explorer .
+git fetch --all
+ssh -vT git@github.com
+git push
+git remote -v
+cd ~/.local/share/chezmoi
+git push
+git remote -v
+git push -v
+GIT_TRACE=1 GIT_SSH_COMMAND="ssh -v" git push
+echo $env:SSH_AUTH_SOCK
+echo env:SSH_AUTH_SOCK
+echo $env:SSH_AUTH_SOCK
+$env.SSH_AUTH_SOCK | describe
+git push
+ssh -T git@github.com
+git config --local core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"
+git push
+git remove AppData
+git rm AppData
+chezmoit remove ~/AppData
+chezmoi remove ~/AppData
+chezmoi forget ~/AppData
+chezmoi -h
+chezmoi status
+chezmoi managed
+chezmoi add ~/.config/nvim/
